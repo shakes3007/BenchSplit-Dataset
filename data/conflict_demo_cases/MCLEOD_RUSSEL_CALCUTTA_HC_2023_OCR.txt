@@ -1,0 +1,834 @@
+10/31/26, 10:14 AM
+
+Mcleod Russel India Limited & Anr vs Aditya Birla Finance Limited & Ors on 14 February, 2023
+
+Mcleod Russel India Limited & Anr vs Aditya Birla Finance Limited & Ors
+on 14 February, 2023
+
+Author: Moushumi Bhattacharya
+
+Bench: Moushumi Bhattacharya
+
+IN THE HIGH COURT AT CALCUTTA
+
+Ordinary Original Civil
+ORIGINAL SIDE
+
+Jurisdiction
+
+(Commercial Division)
+
+Present :
+
+THE HON'BLE JUSTICE MOUSHUMI BHATTACHARYA
+
+A.P. No. 106 of 2028
+McLeod Russel India Limited & Anr.
+
+VS
+
+Aditya Birla Finance Limited & Ors.
+
+For the petitioners
+
+For the respondents
+
+Last Heard on 08
+
+Delivered on 14
+
+Moushumi Bhattacharya, J.
+
+I. Introduction
+
+https://indiankanoon.org/doc/65204146/?type=print&utm_source=chatgpt.com
+
+Mr.
+Mr,
+Mr.
+Mr.
+Mr.
+Mr.
+Mr.
+
+Dr.
+Mr.
+Mr.
+Mr.
+Mr.
+Ms.
+Mr.
+Mr.
+Mr.
+Mr.
+Mr.
+
+Abhrajit Mitra, Sr. Adv.
+Jishnu Chowdhury, Adv.
+Rajarshi Dutta, Adv.
+Chayan Gupta, Adv.
+Reetoban Sarkar, Adv.
+Prasun Mukherjee, Adv.
+Deepak Agarwal, Adv.
+
+Abhishek Manu Singhvi, Sr. Adv.
+Ranjan Bachawat, Sr. Adv.
+Sanjeev Kumar, Adv.
+
+Rohit Das, Adv.
+
+Dwaipayan Basu Mullick, Adv.
+Suchismita Ghosh Chatterjee, Adv.
+Abhishek Kisku, Adv.
+
+Pranshu Paul, Adv.
+
+Anshul Sehgal, Adv.
+
+Subhankar Das, Adv.
+
+Nidhi Ram, Adv.
+
+- 92.2023.
+
+- 02.2023.
+
+17
+
+10/31/26, 10:14 AM Mcleod Russel India Limited & Anr vs Aditya Birla Finance Limited & Ors on 14 February, 2023
+1. This is an application under section 14 of The Arbitration and Conciliation Act, 1996, for
+termination of the mandate of the Ld. Sole Arbitrator and stay of all further proceedings in the
+arbitration pending disposal of the present application.
+
+2. The dispute between the petitioners and the respondents arises out of an Agreement for
+Arbitration made on 24.3.2018 wherein the respondent no. 1 was described as the "Investor". The
+Arbitrator was appointed under clause 3, the material part of which is set out below:
+
+"Clause 3. Any dispute(s), difference(s) and/or claim(s) arising in connection with the
+Transaction or as to the construction, meaning or effect thereof in relation to any Transaction
+Document or as to the rights and liabilities of the Parties under any Transaction Document
+shall be settled by arbitration in accordance with the Arbitration and Conciliation Act, 1996,
+or any statutory amendments, modifications and/or replacements thereof and the rules
+framed thereunder, which shall be referred to a sole arbitrator to be appointed by the
+Investor. The seat of the arbitration shall be India and the venue of the arbitration shall be at
+such place as determined by the Investor at its sole discretion."
+
+3. The petitioners say that the appointment is invalid having regard to the unilateral appointment of
+the Arbitrator by one of the parties to the dispute. Learned counsel appearing for the petitioners
+further submits that the petitioners did not execute any express agreement in writing to circumvent
+the invalidity of the appointment. Counsel submits that the unilateral appointment of the Arbitrator
+is void ab initio and the Arbitrator would hence lack inherent jurisdiction to entertain the
+arbitration proceeding. It is also submitted that the petitioners' participation in the arbitration
+would not amount to a waiver as contemplated under the proviso to section 12(5) of the Act.
+Counsel relies on the applicability of the Seventh Schedule of the Act in this regard and
+particularly Entry 12 thereof. Counsel also relies on some of the Minutes of the Arbitration Sittings
+to urge that there was no express agreement in writing by the petitioners at any point of time as
+envisaged under the proviso to section 12(5) of the Act. Counsel places at least two instances
+reflecting the bias of the Arbitrator.
+
+4. Learned counsel appearing for the respondent no. 1 places reliance on the sequence of events to
+show that the petitioners were aware of a disclosure made by the Arbitrator as far back as in
+12.5.2019 and cites several instances thereafter to show that the petitioners knowingly and
+willingly participated in the Arbitration from 11.5.2019 to 12.2.2020. Counsel submits that the
+petitioners were also aware of the judgments pronounced by the Supreme Court in TRF Ltd. vs.
+Energo Engineering Projects Ltd. as well as Bharat Broadband Network Limited vs. United
+Telecoms Limited and Perkins Eastman Architects DPC vs. HSCC (India) Limited (which will be
+dealt with later) on the application of section 12(5) but nonetheless continued to participate in the
+arbitration. Counsel submits that the present application is an afterthought and has been filed only
+for the purpose of wriggling out of consent orders obtained by the petitioners on 15.7.2019 on the
+basis of statements made in its affidavit/Statement of Defence. Counsel submits that the pleadings
+and affidavits filed by the petitioners including the unequivocal stand taken in the arbitration
+
+https://indiankanoon.org/doc/65204146/?type=print&utm_source=chatgpt.com 207
+
+10/31/26, 10:14 AM Mcleod Russel India Limited & Anr vs Aditya Birla Finance Limited & Ors on 14 February, 2023
+amounts to an express written agreement under the proviso to section 12(5) and hence a waiver of
+any alleged disqualification of the Arbitrator.
+
+5. Counsel urges that the Arbitrator is not struck by the disability contemplated in section 12(5)
+and relies on the specific stand taken by the petitioners of not questioning the integrity of the
+Arbitrator. Counsel places emphasis on the conduct of the petitioners in filing several applications
+before the Arbitrator, this Court and the Supreme Court under diverse sections of the Act and
+pursuing parallel proceedings on the same issue before different forums.
+
+L.A Cases relied on by the petitioners and the respondent no. 1:
+
+6. The decisions cited on behalf of the petitioners have laid emphasis on the absolute requirement
+of impartiality and independence under Section 12(5) of the Act. The judgments cited are briefly
+referred to below, from the most recent to backwards.
+
+7. Ellora Paper Mills Limited vs. State of Madhya Pradesh; (2022) 3 SCC 1, negated the argument
+that participation in an arbitration proceeding before the concerned arbitrator will amount to a
+waiver of the arbitrator's ineligibility. The Supreme Court relied on Jaipur Zila Dugdh Utpadak
+Sahkari Sangh Ltd. Vs. Ajay Sales & Suppliers; which in turn relied on Bharat Broadband
+Network Ltd. Vs. United Telecoms Ltd.; (2019) 5 SCC 755 to reinforce the point of an express
+agreement in writing to satisfy the requirement of section 12(5) proviso.
+
+8. In Jaipur Zila Dugdh Utpadak Sahkari Sangh Ltd. vs. Ajay Sales & Suppliers; (2021) 17 SCC
+248, the Supreme Court relied on Bharat Broadband Network Ltd. vs United Telecoms Ltd.;
+(2019) 5 SCC 755 and held that the mandate of an arbitrator who has become ineligible to perform
+his functions under section 12(5) would automatically stand terminated and the arbitrator shall
+then be substituted by another arbitrator. The Supreme Court relied on Voestalpine Schienen
+GMBH vy. Delhi Metro Rail Corporation Limited, (2017) 4 SCC 665 to stress on concepts of
+independence and impartiality of an arbitrator. The Supreme Court also rejected the contention that
+the respondents had forgone their right to approach the High Court for appointment of an arbitrator
+under section 11 of the Act by participating in the arbitration proceedings before the sole arbitrator.
+
+9. Perkins Eastman Architects DPC vs. HSCC (India) Limited; (2020) 20 SCC 760 relied on the
+pronouncement of the Supreme Court in TRF Ltd. vs. Energo Engineering Projects Ltd.; (2017) 8
+SCC 377 to hold that the interest of a person rendered ineligible to act as arbitrator will colour a
+nomination made by that (ineligible) person and give rise to the possibility of bias with reference
+to the person's interest in the outcome of the dispute.
+
+10. In Bharat Broadband Network Limited vs. United Telecoms Limited; (2019) 5 SCC 755, the
+Supreme Court again stressed on the firmness of an express agreement in writing for waiving the
+applicability of section 12(5); namely of a person rendered ineligible by way of his/her relationship
+with the parties or being rendered thus under any of the categories in the Seventh Schedule. The
+Supreme Court also placed emphasis on the agreement being made with full knowledge of the
+parties and express words reposing favour and confidence in the arbitrator.
+
+https://indiankanoon.org/doc/65204146/?type=print&utm_source=chatgpt.com SN7
+
+10/31/26, 10:14 AM Mcleod Russel India Limited & Anr vs Aditya Birla Finance Limited & Ors on 14 February, 2023
+ll. In TRF Limited vs. Energo Engineering Projects Limited; (2017) 8 SCC 377, the Supreme
+Court opined that if the Managing Director of the Corporation has become ineligible by operation
+of law, the ineligibility will extend to any nomination by the Managing Director of any person to
+act as an arbitrator.
+
+12. In a recent decision of a Division Bench of the Delhi High Court in Govind Singh vs. M/s
+Satya Group Pvt. Ltd.; FAO (COMM) 136/2022 and CM Nos. 41441/2022 & 41443/2022, the
+Court declined to impute any implied waiver of the right under section 12(5) by conduct or
+otherwise. In that case the applicant had participated in the arbitral proceedings without raising any
+objection to the appointment of arbitrator.
+
+13. A Co-ordinate Bench of this Court in Yashovardhan Sinha HUF vs. Satyatej Vyapaar Private
+Limited; A.P. No.156 of 2022 followed the pronouncement of the Supreme Court in TRF and
+Perkins in the matter of an individual being rendered ineligible himself under the provisions of the
+Act to be appointed as an arbitrator and hence being ineligible to nominate a sole arbitrator. The
+Court accordingly terminated the mandate of the present arbitrator and appointed a new arbitrator
+to resolve the disputes between the parties.
+
+14. The respondent no. | has cited Sadanand Das vs. The State of West Bengal; CO No. 1676 of
+2018 on the point that a challenge under section 13 is different from termination of an arbitrator's
+mandate under section 14 of the Act.
+
+II. Decision ILA. Incorporating the concept of Independence and Impartiality of an Arbitrator in
+the Act of 1996 :
+
+II.A. a. General Scheme of the Act :
+
+15. Sections 12 to 15 of the 1996 Act address the concerns of an arbitrator's ineligibility and
+impossibility to act on a reference and continue as the master of the proceeding until the making of
+the award. A substantial part of section 12 was brought in by the Amendment Act of 2016 with
+effect from 23.10.2015 whereby the earlier pre-amendment requirement of the person appointed as
+an arbitrator to disclose in writing any circumstance likely to give rise to justifiable doubts as to
+his independence or impartiality was replaced by a post-amendment sequentially graded situations
+which would give rise to a presumption of conflict.
+
+16. The second thrust of the amendment was to subject the situations under section 12 outlining
+the varied scenarios of non-independence to a challenge to the appointment itself. The challenge
+receives a stage-wise procedure with timelines under section 13 and gives an option to the
+arbitrator confronted with the challenge to withdraw from his office or to decide on the challenge.
+The concept of termination of an arbitrator's mandate on lack of independence or impartiality is
+continued to sections 14 and 15 which provide for the substitution of the arbitrator whose mandate
+has come to an end.
+
+17. The provisions on ineligibility in section 12 include the arbitrator's inability to devote
+sufficient time to the arbitration coupled with his inability to complete the entire arbitration within
+
+https://indiankanoon.org/doc/65204146/?type=print&utm_source=chatgpt.com 47
+
+10/31/26, 10:14 AM Mcleod Russel India Limited & Anr vs Aditya Birla Finance Limited & Ors on 14 February, 2023
+a period of 12 months [12(1)(b)]. The challenge to the appointment of an arbitrator on the grounds
+provided under section 12 or 14 is not an unconditional legislative grant; the challenge must be
+accompanied by supporting circumstances which give rise to justifiable doubts as to the arbitrator's
+independence or impartiality or the arbitrator's lack of qualifications [12(3)(a) and (b)]. The entire
+procedure of challenge is premised on the party being made aware of the conflict post-
+appointment.
+
+ILA. b. Waiving the Disqualification - section 12(5) :
+
+18. Section 12 (5) nullifies any agreement made between the parties before the appointment of an
+arbitrator where the person appointed comes within any of the relationships and categories
+specified in the Seventh Schedule. The person appointed as an arbitrator shall be rendered
+ineligible if he or she falls within any of the categories under the Seventh Schedule.
+
+19. The Seventh Schedule - brought into the Act with effect from 23.10.2015 - is a list of broad-
+based relationship - guidelines encompassing all gradations of relationships between: 1) the
+arbitrator and parties, ii) arbitrator and counsel, iii) arbitrator and the dispute and iv) arbitrator's
+direct or indirect interest in the dispute. The gradations contemplate the arbitrator not only as a
+lawyer who may have advised or represented one or more of the parties, but also as a person with a
+corporate background who may have been part of the management of a company and even as a
+person trading in stocks and shares or having close family ties with a third party who may have a
+present or future interest in the dispute. In essence, the Seventh Schedule covers every possible
+situation giving rise to a presumption of the arbitrator's interest in the arbitration proceeding. The
+family members of the arbitrator are also brought within the ambit of interest (Explanation 1).
+
+ILA. c. Significance of the Proviso to section 12(5) :
+
+20. The proviso gives an option to the parties to waive the applicability of 12(5) after
+disputes have arisen between the parties by way of an express agreement in writing. The
+proviso to section 12(5) provides for an alternative to section 12(4) which requires a party
+making the challenge to an arbitrator's appointment of becoming aware of the situations
+giving rise to a conflict, post-appointment.
+
+21. The proviso to section 12(5) is an innovation which is somewhat antithetical to the
+independence context and in fact to the general scheme of The Arbitration and Conciliation
+Act, 1996; which would be evident from the following. The proviso also strikes a discordant
+note to party autonomy.
+
+22. The Arbitration and Conciliation Act, 1996 was amended in 2016 to incorporate the Fifth
+and Seventh Schedules to the Act. The Fifth and Seventh Schedules were adapted from the
+International Bar Association Guidelines on Conflicts of Interest in International Arbitration.
+The purpose of the Guidelines was to introduce a scheme of parameters for providing
+
+https://indiankanoon.org/doc/65204146/?type=print&utm_source=chatgpt.com S17
+
+10/31/26, 10:14 AM Mcleod Russel India Limited & Anr vs Aditya Birla Finance Limited & Ors on 14 February, 2023
+uniformity in arbitration proceedings, more specifically, in situations of conflicts or potential
+conflicts concerning the arbitrators.
+
+23. Part I of the 2014 (IBA) Guidelines on Conflicts of Interest in International Arbitration,
+as updated in August, 2015, deals with "General Standards" with reference to impartiality,
+independence and disclosure. Part I] of the Guidelines consists of the practical application of
+the General Standards and consists of three colour-coded lists; Red, Orange and Green.
+
+These lists contain specific scenarios which are likely to occur in arbitration proceedings and seek
+to determine whether the appointment of the arbitrator would violate the Conflict of Interest Rules.
+The broadly-classified situations are demarcated by way of four lists :
+
+L Non-Waivable Red List - Circumstances which objectively present a conflict of interest
+wherein an arbitrator cannot act even with the consent of all the parties.
+
+[ Waivable Red List - A serious but not severe situation whereby the parties can agree to
+waive the conflict.
+
+L An Orange List - Factual matters which will lead to justifiable doubts regarding the
+impartiality and independence of the arbitrator.
+
+l. A Green List - Matters which do not, objectively, present any apparent or actual conflict of
+interest.
+
+24, Although the IBA Guidelines forms the inspiration behind the Seventh Schedule, the proviso to
+12(5) cuts through the Non-Waivable Red List and the Waivable Red List to make the entire set of
+disqualifications in the Seventh Schedule waivable by an express agreement in writing by the
+parties. This means that notwithstanding the absolute bar contained in the situations in the Non-
+Waivable Red List as envisaged in the IBA Guidelines, the 1996 Act permits the parties to waive
+all, even the obvious areas of conflict of interest, by an express agreement in writing subsequent to
+disputes having arisen between the parties. In other words, the Act bestows the final choice of
+deciding upon the parties as to whether a person can continue to act as an arbitrator despite an
+obvious or potential absence of independence or impartiality giving rise to conflict of interest.
+ILA. d. "Express Agreement in writing"
+
+25. The parties to the disputes and after such disputes have arisen, may express their intention to
+circumvent and obliterate any disqualification m the form of a written agreement. The express
+written agreement is the substratum of the proviso in line with the mantra of party autonomy in
+alternative dispute redressal mechanisms. The proviso thus reinforces the defining characteristic of
+
+https://indiankanoon.org/doc/65204146/?type=print&utm_source=chatgpt.com 67
+
+10/31/26, 10:14 AM Mcleod Russel India Limited & Anr vs Aditya Birla Finance Limited & Ors on 14 February, 2023
+an arbitration proceeding where the parties are given the statutory nod for deciding on the
+procedure of the arbitration and every other aspect of it. The only caveat is that the agreement
+should not be by words, conduct or unspoken understandings but fulfill the benchmark of an
+express promise as defined under section 9 of The Indian Contract Act, 1872. The requirement
+further presumes that the agreement in writing must be made by the party who takes the objection
+to the appointment of the arbitrator and seeks recourse under section 12(5). The requirement does
+not entail both the parties executing a formal agreement since the other party (who has made the
+appointment) may not raise the issue at all. The deeming feature of the proviso further presumes
+that the express written agreement must be made without undue delay.
+
+II.B. Putting the facts in this case within the section 12(5) framework read with the Proviso IIB. a.
+The petitioners’ full, complete and repeated participation in the Arbitration:
+
+26. The relevant dates are
+1) 24.3.2018: The Arbitration Agreement was entered into by the parties.
+
+ui) 11.5.2019: The respondent no. | issued the Arbitration Notice and appointed the Ld. Sole
+Arbitrator under Clause 3 of the Arbitration Agreement.
+
+ili) 12.5.2019: The Ld. Sole Arbitrator made the disclosure under section 12 and communicated the
+same to all the parties including the petitioner. The disclosure was also recorded in the Minutes of
+the Meeting and the Procedural Order dated 27.5.2019.
+
+iv) 15.7.2019: The petitioners (respondents in the arbitration) filed their Statement of Defence to
+the Statement of Claim and the respondent no. 1's application under section 17 and offered to
+provide security for disposal of the proceedings subject to consent by the respondent no. 1 for
+vacating of the injunction order dated 19.6.2019.
+
+v) 15.7.2019: The Arbitrator passed a consent order in view of the affidavit/Statement of Defence
+of the petitioner whereby the respondent no. 1 gave up on all other securities and consented to
+vacating of injunction order dated 19.6.2019 subject to the offered securities being provided by the
+respondents in the arbitration.
+
+vi) 10.9.2019: The petitioner executed a Registered Agreement to Mortgage in compliance with
+the consent order dated 15.7.2019 and registered the Charge in CHG-1 form along with
+Memorandum of Entry in favour of the respondent no. 1.
+
+vii) 9.12.2019: The petitioners filed an application under section 16(3) challenging the application
+dated 24.9.2019 filed by the respondent no. | under section 31(6) of the 1996 Act and admitted
+therein to the jurisdiction of the Arbitrator by specifically stating that "the jurisdiction of this
+Hon'ble Tribunal is limited to disputes that had risen either on or before 11.5.2019".
+
+27. The above dates show that the petitioner's participation in the Arbitration was not a one-off act
+or a mindless entry into the Arbitrator's jurisdiction; the petitioners made a conscious and
+deliberate decision to stay on and live with the Arbitration Agreement and the arbitration
+
+https://indiankanoon.org/doc/65204146/?type=print&utm_source=chatgpt.com WN
+
+10/31/26, 10:14 AM Mcleod Russel India Limited & Anr vs Aditya Birla Finance Limited & Ors on 14 February, 2023
+proceedings from March, 2018 - February, 2020. The petitioners decided to slip out of the
+arbitration only in 2020 by filing four applications for challenging the appointment of the
+Arbitrator.
+
+II.B. b. The petitioners' participation was with full knowledge of the Supreme Court judgments in
+TRF Limited, Bharat Broadband and Perkins.
+
+28. The steps taken by the petitioners follows the citations.
+
+_| TRF Limited vs. Energo Engineering Projects Limited; (2017) 8 SCC 377 was pronounced on
+3.7.2017.
+
+The petitioners entered into the Arbitration Agreement after this judgment, on 24.3.2018.
+
+| Bharat Broadband Network Limited vs. United Telecoms Limited; (2019) 5 SCC 755 was
+pronounced on 16.4.2019.
+
+The respondent no. | appointed the Arbitrator as the Sole Arbitrator to adjudicate all the disputes
+under the transaction documents on 11.5.2019. The disclosure made by the Arbitrator under section
+12 was communicated to the petitioner on 12.5.2019. The petitioners by an affidavit offered to
+provide security for disposal of the proceedings subject to the consent of the respondent no. 1 for
+vacating of the injunction order dated 19.6.2019. The Arbitrator passed a consent order on
+15.7.2019 pursuant to the petitioner's affidavit and the respondent no. | gave up on all other
+securities and consented to vacating of the injunction order dated 19.6.2019. The petitioners
+executed a Registered Agreement to Mortgage along with registration of charge in favour of the
+respondent no. 1 on 10.9.2019.
+
+| Perkins Eastman Architects DPC vs. HSCC (India) Limited; (2020) 20 SCC 760 was
+pronounced on 26.11.2019.
+
+On 9.1.2.2019, the petitioners filed an application under section 16(3) wherein the petitioners
+admitted to the jurisdiction of the Arbitrator by specially stating that the jurisdiction of the
+Arbitrator is limited to the disputes that have arisen either on or before 11.5.2019.
+
+29. The petitioners hence took an informed decision to continue with their participation in the
+arbitration proceedings despite having full knowledge of the implications of the decisions
+pronounced by the Supreme Court. The petitioners now seek to rely on these very decisions in
+2023 to upend the arbitration.
+
+II.B. c. The petitioners waived the perceived disqualification of the Arbitrator under section 12(5)
+by an express agreement in writing :
+
+30. The pleadings filed by the petitioner at various stages in the arbitration proceeding amounts to
+an "express agreement in writing" as contemplated in the proviso to section 12(5) of the Act. These
+include :
+
+https://indiankanoon.org/doc/65204146/?type=print&utm_source=chatgpt.com 817
+
+10/31/26, 10:14 AM Mcleod Russel India Limited & Anr vs Aditya Birla Finance Limited & Ors on 14 February, 2023
+
+i) Minutes of the Meeting dated 27.5.2019 which recorded that both the parties had agreed to
+the practice and procedure to be followed by the parties in the arbitration.
+
+ii) The petitioner's affidavit/Statement of Defence dated 15.7.2019 wherein the petitioner
+stated that the affidavit may be treated as a reply to the Statement of Claim filed by the
+respondent no. | and the proceedings initiated by the respondent no. 1 may be disposed of
+based on the security and undertaking provided by the petitioner before the Arbitrator.
+
+ili) The consent order passed by the Arbitrator based on the offer made by the petitioner in its
+affidavit which was accepted by the respondent no.
+
+l.
+
+iv) The petitioner's compliance of the order 15.7.2019 passed by the Arbitrator and the Agreement
+to Mortgage executed by the petitioner pursuant to the order. The petitioner's compliance included
+filing of the relevant Form and the Memorandum of Entry before the Registrar of Companies for
+registration of charge.
+
+v) The petitioner's application under section 16(3) of the Act (that the Arbitrator is exceeding the
+scope of its authority) which contained a specific statement that the jurisdiction of the Arbitrator is
+limited to the dispute which had arisen either on or before 11.5.2019.
+
+vi) The petitioner replied to the application of the respondent and affirmed the jurisdiction of the
+Arbitrator by reiterating the statement that the jurisdiction is limited to the dispute which arose
+either on or before 11.5.2019.
+
+vii) The petitioner's reply to the application of the respondent no. | under section 31 for an interim
+arbitral award wherein the petitioner again affirmed the jurisdiction of the Arbitrator by making a
+similar statement as above.
+
+viii) The petitioner's application dated 11.2.2020 seeking disclosure from the Arbitrator containing
+a specific statement that the petitioner and his advocate have no doubt and do not question the
+integrity of the Arbitrator.
+
+ix) The consent order before the Mediation Courts, Dwarka, Delhi in a case under section 138 of
+the Negotiable Instruments Act settled on 31.8.2022 where the petitioner no. 1 acknowledged the
+consent order dated 15.7.2019 and agreed to creation of a charge in compliance with the consent
+order,
+
+IL.B. d. The above leads the Court to hold :
+
+31. The statements contained in pleadings filed by the petitioner before the Arbitrator
+constitute an express agreement as contemplated under the proviso to section 12(5) of the
+
+https://indiankanoon.org/doc/65204146/?type=print&utm_source=chatgpt.com SiN7
+
+10/31/26, 10:14 AM Mcleod Russel India Limited & Anr vs Aditya Birla Finance Limited & Ors on 14 February, 2023
+Act. The statements are distinct from a deemed waiver as contemplated in section 4 of the
+Act where a party proceeds with the arbitration without stating his / her objection to the non-
+
+compliance of the provisions or the arbitration agreement. The decisions cited hold that the term
+"express agreement" must be in the nature of express promise as contemplated in section 9 of The
+Indian Contract Act, 1872 where the acceptance of any promise made in words is deemed to be
+expressed while those made otherwise, than in words, is deemed to be implied. One may also draw
+a parallel to section 7(2)(e) of the Act where exchange of statements of claim and defence and
+existence of arbitration agreement being alleged by one party and not denied by the other amounts
+to an arbitration agreement. The petitioner and the respondent no. 1 had exchanged their respective
+Statement of Claim and Statement of Defence/affidavit in the present proceeding.
+
+III. Conclusions IIT.A. The law
+
+32. Section 12(5) is a relationships-conflict provision. The disqualification of an arbitrator is
+premised on the intersections of the arbitrator's relationship with the parties/counsel/subject matter
+of the dispute which falls under any of the categories specified in the Seventh Schedule. The
+ineligibility is hence to be fixed on the Seventh Schedule, in specific, as provided for in section
+12(5). The proviso to section 12(5) green-lights the parties to waive all objections to ineligibility
+which fall under the Seventh Schedule. The proviso does not carve out any exception akin to the
+non-waivable Red List of the IBA Guidelines where certain conflicts remain outside the purview
+of waiver by agreement. Since the Act gives the right to the parties to circumvent any and all
+relationship-based conflicts which would disqualify an arbitrator under the Seventh Schedule, no
+appointments can be treated as void ab initio or incapable of being cured by an express written
+agreement.
+
+33. Section 12(5) specifies the disqualification of an arbitrator and not of the party appointing the
+arbitrator.
+
+34. The proviso to section 12(5) which allows the parties to a dispute to waive the applicability of
+section 12(5) by an express agreement in writing would hence take from and be confined to section
+12(5). In other words, the express agreement of the parties to get around the disqualification under
+the categories mentioned in section 12(5) can only be in relation to the Seventh Schedule. This is
+clear from the words "... waive the applicability of this sub- section ..." in the proviso (underlined
+for emphasis).
+
+35. The de jure or de facto termination of mandate of an arbitrator under section 14 must not only
+be assessed in light of the proviso to section 12(5) but also with reference to the express agreement
+entered into between the parties subsequent to the dispute having arisen between the parties.
+
+36. The proviso to section 12(5) must be read in sync with the momentum of the 1996 Act. The
+proviso to section 12(5) is not a speed-breaker in the momentum to be achieved through arbitration
+but an accelerator to the process so that parties may resolve any lingering ineligibility issues and
+put such matters at rest once and for all. The proviso is not to be treated as an escape-route to a
+
+https://indiankanoon.org/doc/65204146/?type=print&utm_source=chatgpt.com 10/17
+
+10/31/26, 10:14 AM Mcleod Russel India Limited & Anr vs Aditya Birla Finance Limited & Ors on 14 February, 2023
+disgruntled party who is dissatisfied with a decision of an arbitrator and decides to do a volte-face
+after participating in the proceedings for a considerable length of time.
+
+37. The provisions of The Arbitration and Conciliation Act, 1996, including section 12(5) read
+with the proviso are not fact-neutral. The statutory leeway given to parties is for a purpose; which
+is to facilitate the speed and ease of the arbitration procedure. The Act aims to aid parties who are
+ready to flow with the momentum built into the statute and not parties who change their positions
+consequent to adverse orders in the arbitration. Section 12(5) is certainly not context-indifferent
+where a party's continuous, repeated and unequivocal acceptance of the arbitrator's appointment
+and subsequent participation in the arbitration is wiped out simply on an application being filed for
+termination of the arbitrator's mandate.
+
+38. All unilateral appointments of arbitrators cannot automatically be nullified on the application
+of section 12(5). The perceived disqualification must be assessed only on the mandate of section
+12(S) which is within the guard-rails of the Seventh Schedule. Entry 12 of the Seventh Schedule
+specifically deals with a situation where the arbitrator is a manager, director or part of the
+management or has a controlling influence in one of the parties. This is not the same and cannot be
+put on an equal footing as an arbitrator being appointed by one of the parties to the dispute. A
+distinction must be made on the obvious dissimilarity between an arbitrator being hit by any one or
+all of the conflicted relationships in the Seventh Schedule and an arbitrator being rendered
+ineligible simply by reason of being appointed by one of the parties to the dispute.
+
+39. The named arbitrator being the CMD/MD of one of the parties to the dispute and his nominee
+is but one degree of separation in the chain of disqualification. This is entirely different from a
+party nominating an arbitrator where the test of independence starts with the arbitrator on the
+multiprongs of the Fifth and the Seventh Schedules.
+
+40. The petitioners’ present challenge to the appointment of the arbitrator is also contrary to section
+12(4) of the Act. Under section 12(4), a party may challenge an arbitrator in whose appointment he
+has participated only for reasons of which he becomes aware after the appointment has been made.
+The petitioners participated in the arbitration for almost 2 years before lodging the challenge. The
+petitioners have also not disclosed any facts which came to the petitioners' knowledge after the
+appointment warranting termination of the Arbitrator's mandate. The petitioners were parties to the
+Arbitration Agreement containing the clause of the appointment made by the respondent no.1; the
+petitioners were also aware of the disclosures/declarations made by the Arbitrators in May, 2019
+and June, 2020. The petitioners were also aware of Perkins from 26th November, 2019 onwards.
+Section 12(4) also makes it clear that the reasons calling for the challenge must be under section
+12 read with the Fifth and Seventh Schedules. Hence, the petitioners’ challenge to the appointment
+after full participation in the arbitration falls foul of section 12(4) of the Act.
+
+41. The decisions in TRF, Bharat Broadband, Perkins and Jaipur Zila Parishad proceed on the basis
+of the named arbitrator also serving as the MD/CMD or a Director of one of the parties. In other
+words, these three cases are of a persona designata arbitrator where the persona designata was to
+be the arbitrator or had the right to nominate an arbitrator in his place. (for emphasis). The
+Supreme Court therefore, held that the person designated was per se ineligible under the Seventh
+
+https://indiankanoon.org/doc/65204146/?type=print&utm_source=chatgpt.com WNT
+
+10/31/26, 10:14 AM Mcleod Russel India Limited & Anr vs Aditya Birla Finance Limited & Ors on 14 February, 2023
+Schedule read with section 12(5) of the Act to act as an arbitrator. These cases hence involve a
+person who chose himself to act as the arbitrator and hence was automatically disqualified by the
+amendments brought to the Act in 2015 and specifically under the Seventh Schedule. This person
+naturally could not appoint a substitute in his or her place since that would be a mere extension of
+the ineligibility extended by one degree.
+
+42. The ratio of TRF, Bharat Broadband and Perkins is therefore essentially that of an arbitrator
+who becomes ineligible by a statutory bar and consequently renders himself ineligible to nominate
+someone else to act as the arbitrator. The logic is that a disqualified person cannot delegate his
+position to another as that would amount to arbitration by the disqualified arbitrator himself.
+Hence, once the MD loses his position/identity as a sole arbitrator, the MD's right to nominate is
+automatically wiped out - TRF and Perkins.
+
+43. In the present case, Clause 3 of the Arbitration Agreement provides for a "Sole Arbitrator to be
+appointed by the Investor". There is (a) no named / designated Arbitrator and (b) the Investor / any
+of its Directors has not claimed a right to act as the Arbitrator itself. The Investor has appointed a
+retired Judge of a High Court. Hence, the analogy sought to be drawn between the facts of the
+present case and those in TRF, Bharat Broadband and Perkins is factually distinguishable since in
+TRF the MD himself was a sole arbitrator and was disqualified to act as such by reason of the
+amending Act of 2016. Bharat Broadband and Perkins considered the facts of TRF and the
+consequent disqualification.
+
+44. Unilateral appointments being impermissible in law must be read to mean an unilateral
+appointment made by a person who himself is disqualified to act as an arbitrator under the Seventh
+Schedule and not each and every unilateral appointment made by one of the parties to the
+arbitration. Treating these situations as one and the same would amount to conflation of two
+different and distinct scenarios which is not what the Act mandates.
+
+45. The reality of the arbitration model which is presently followed cannot also be discounted.
+Arbitrators are usually nominated from a pool of persons and include retired Supreme Court and
+High Court Judges who are known in the circuit. Such a person being nominated cannot
+automatically translate to a disqualification unless the appointment falls foul of the disclosure and
+conflicts which are specifically set out in the Fifth or the Seventh Schedule. The nomination must
+also be seen as a facilitator of party-autonomy which is intrinsic to arbitration.
+
+IlI.B. The (perceived) Perkins Problem
+
+46. The decision of the Supreme Court in Perkins Eastman Architects DPC vs. HSCC (India)
+Limited; (2020) 20 SCC 760, involved a Dispute Resolution clause whereby the disputes were to
+be referred to arbitration of a sole arbitrator appointed by the CMD of the respondent before the
+Supreme Court (HSCC). The Supreme Court relied on paragraph 50 of TRF to hold that the CMD
+not only became ineligible to act as the arbitrator but was also disqualified from nominating an
+arbitrator. The Supreme Court accordingly annulled the appointment of the arbitrator and
+appointed a retired Judge of the Supreme Court as the Sole Arbitrator to decide the disputes arising
+
+https://indiankanoon.org/doc/65204146/?type=print&utm_source=chatgpt.com 12/17
+
+10/31/26, 10:14 AM Mcleod Russel India Limited & Anr vs Aditya Birla Finance Limited & Ors on 14 February, 2023
+out of the agreement executed between the parties subject to the mandatory disqualification under
+the amended section 12 of the Act.
+
+47. The petitioner banks on the decision in Perkins to contend that any advantage which a party
+may derive by nominating an arbitrator of its choice will carry an element of exclusivity in
+determining the course of the dispute resolution. The petitioner also places emphasis on Perkins to
+say that a person who has an interest in the outcome of the dispute cannot have the power to
+appoint a sole arbitrator.
+
+48. On the factual score, Perkins was pronounced on an application under section 11 of the Act for
+appointment of an arbitrator. The Arbitration Agreement was of 22nd May, 2017 and the arbitrator
+was appointed on 30th July, 2019. The petition was filed immediately thereafter and the decision in
+Perkins was pronounced on 26th November, 2019. Second, the facts in Perkins did not involve any
+express written agreement under the proviso to section 12(5). Further, the contract between the
+parties was entered into after the amendment to the Act but before the decision in TRF
+(pronounced on 3rd July, 2017) where the law was declared on section 12(5) of the Act. Hence, the
+parties were not aware of the implications of TRF with regard to automatic disqualification of the
+MD/CMD of one of the parties to be designated as the arbitrator.
+
+49. The more material distinguishing factor is that paragraph 21 of Perkins clubs all unilateral
+appointments by one of the parties to an arbitration as falling within the statutory bar of section
+12(5) but without reference to the Seventh Schedule. This would be clear from the reliance placed
+by the Court on TRF which was specifically a case under section 12(5) read with the Seventh
+Schedule. Therefore, Perkins amplifies and extends the disqualification under section 12(5) to all
+unilateral appointments divorced from any of the categories specified in the Seventh Schedule.
+Perkins also proceeded on the ratio of TRF namely whether the Managing Director, after becoming
+ineligible by operation, is still eligible to nominate an arbitrator.
+
+50. The absence of any issue with regard to an express written agreement under the proviso to
+section 12(5) in Perkins amounts to a crucial difference in facts. As discussed above, the proviso
+allows the parties to the dispute to waive the ineligibility of an arbitrator under the Seventh
+Schedule by an express agreement in writing. The proviso hence enables the parties to obliterate
+any disqualification which an arbitrator may be visited with under the Seventh Schedule. In the
+present case, the express and unequivocal written statements made by the petitioner amounts to a
+waiver. Without doubt, the pleadings and statements made in the petitioner's applications wipe out
+any objections to the appointment of the Sole Arbitrator. There was no such unequivocal
+acceptance of the arbitration by conduct or otherwise in Perkins. This has a transformational legal
+bearing on the disputes in the present case. Therefore, Perkins is not at all a problem for the
+respondent no. 1.
+
+UI.C. The other decisions cited by the petitioners are distinguishable on facts :.
+
+51. The other decisions are [1 TRF vs Energo ; (2017) 8 SCC 377 : The arbitration agreement
+provided for the Managing Director of the respondent or his nominee to be appointed as an
+arbitrator. Hence, this was a case of the arbitrator as persona designate with the power to nominate
+
+https://indiankanoon.org/doc/65204146/?type=print&utm_source=chatgpt.com 13/17
+
+10/31/26, 10:14 AM Mcleod Russel India Limited & Anr vs Aditya Birla Finance Limited & Ors on 14 February, 2023
+an arbitrator in his place. This was also a case under section 11 of the 1996 Act and the contract
+was entered into before the amendment brought into the 1996 Act with effect from 23.10.2015.
+There was also no express agreement in writing under the proviso to section 12 (5) of the Act.
+
+“| Bharat Broadband vs. United Telecoms; (2019) 5 SCC 755 : The arbitration clause in the
+agreement provided for the arbitration to be referred to the sole arbitration of the CMD of the
+appellant and if the CMD is unwilling to act as such, then to the sole arbitration of some other
+person appointed by the CMD. There was also no agreement in writing under the proviso to
+section 12(5) and more important, the party who had unilaterally nominated sought termination of
+the mandate. Moreover, the appellant Bharat Broadband filed a petition immediately after the
+judgment in TRF. This would appear from paragraph 20 of the Report which records that the
+Managing Director of the appellants was not aware that the arbitrator could not appointed by the
+MD under section 12(5) read with Seventh Schedule which only became clear after the declaration
+of the law by the Supreme Court in TRF. The said paragraph also notes that the moment the
+appellant came to know of the invalidity of the arbitrator's appointment, it filed an application
+before the sole arbitrator for termination of his mandate. The contract in this case was also entered
+into before the amendment of 23.10.2015 and the involved a persona designata with the power to
+nominate an arbitrator in his place.
+
+_| Jaipur Zila Dugdh vs. Ajay Sales & Suppliers; AIR 2021 SC 4869 : The arbitrator was again the
+Chairman of the appellant. The respondent approached the High Court for an appointment of the
+arbitrator under section 11 of the Act. There was no express agreement under the proviso to section
+12 (5) in these facts.
+
+“| Ellora Paper Mills vs. State of Madhya Pradesh; (2022) 3 SCC 1 : The arbitrator was an
+employee of the respondent and hence it was contended that the arbitrator had rendered himself
+ineligible to continue as an arbitrator and also could not appoint any other person as an arbitrator.
+This was also a case under section 11 for an appointment of an arbitrator instead of a nominated
+arbitrator and there was no express written agreement under the proviso to section 12(5) of the Act.
+_| Govind Singh vs M/s Satya Group - Division Bench decision of the Delhi High Court in
+FAO(COMN) 136/2022 : The decision was given on an appeal filed under section 37 of the Act
+challenging an order passed by the Commercial Court rejecting appellant's application under
+section 34 of the Act. The appellant Govind Singh also raised an objection to the appointment of
+the arbitrator at the very beginning and did not appear in the arbitration proceedings thereafter. The
+arbitrator proceeded ex- parte and delivered the impugned award. The objection taken by the
+appellant was before the decisions in TRF and Bharat Broadband. L| MS Bridge Building
+Construction Co. Pvt. Ltd. vs. Bharat Heavy Electricals Ltd. - Single Bench decision of the Delhi
+High Court in O.M.T (COMM) 87/ 2022 : The facts did not concern any express written
+agreement under the proviso to section 12(5) and the Court clarified that non- disclosure of the
+arbitrator under section 12(1) would not make the arbitrator ineligible to act as such.
+
+| Prodattur Cable TV Digi Services vs. Siti Cable Network Limited; (2020) 2 Arb LR 260 : The
+facts did not involve any express written agreement under the proviso to section 12(5) and further
+the objection to the arbitrator's appointment was taken by the petitioner even before the first
+procedural hearing. The Court relied solely on Perkins to hold that a unilateral appointment by an
+
+https://indiankanoon.org/doc/65204146/?type=print&utm_source=chatgpt.com 14/17
+
+10/31/26, 10:14 AM Mcleod Russel India Limited & Anr vs Aditya Birla Finance Limited & Ors on 14 February, 2023
+authority interested in the outcome of the case would be hit by Perkins. The Court also presumed
+that the Company operating through its Board of Directors will have an interest in the outcome of
+the dispute. The present case is different on facts since the respondent no. 1 appointed a retired
+Judge of the High Court as a Sole Arbitrator. Hence, the continuation of interest from a Company
+to its Directors cannot apply in the present case.
+
+“1 Yashovardhan Sinha vs. Satyate) Vyapaar Pvt. Ltd.; A.P. No. 156 of 2022:
+
+A Coordinate Bench of this Court likewise relied on TRF and Perkins to hold that the
+ineligibility of a sole arbitrator would continue with any nomination made by the arbitrator.
+There was however no facts shown or argued with reference to displaying conduct akin to
+that of the petitioners in this case or the petitioner in Yashovardhan waiving the objection
+under the proviso to section 12(5) of the Act.
+
+52. The above decisions disclose a common factual thread; namely of the arbitrator being a
+designated person of one of the parties, usually the MD / CMD, with the power to appoint another
+person to act as the arbitrator in his/her place. All the decisions therefore proceeded on the basis
+that if the designated person becomes ineligible under section 12(5) read with the Seventh
+Schedule, the ineligibility would extend to the person being appointed by the designated arbitrator.
+Once Perkins amplified the ineligibility to all unilateral appointments, the decisions post-Perkins
+proceeded to invalidate all unilateral appointments as an omnibus disqualification without fixing
+the ineligibility to one or more of the specific entries in the Seventh Schedule.
+
+53. The other decisions cited are not being dealt with since they are on the points already discussed
+above.
+
+I1.D. The particular facts of this case
+
+54. The Arbitrator in the present case does not fall under any of the prohibited
+relationships/categories in the Seventh Schedule including Entry 12 therein.
+
+55. Entry 12 is being specifically mentioned following the contention of learned counsel appearing
+for the petitioners. Entry 12 applies where the arbitrator himself is a manager, director or part of
+the management or has a similar controlling influence in one of the parties. The Arbitrator in the
+present case is neither a manager or a director nor a part of the management of the respondent no.
+1. The Arbitrator also does not have any controlling influence in the respondent no. 1 or any of the
+parties to the arbitration. The Arbitrator is a retired Judge of the Madhya Pradesh High Court.
+
+56. The alleged ineligibility of the appointment of the Ld. Arbitrator was regularised under the
+proviso to section 12(5) by the express written documents executed by the petitioners and their
+continuous participation in the arbitration. The petitioners continued to participate in the
+arbitration despite having knowledge of the curable invalidity of the arbitration agreement and
+being aware of the implication of the judgments pronounced by the Supreme Court in TRF, Bharat
+Broadband and Perkins Eastman.
+
+https://indiankanoon.org/doc/65204146/?type=print&utm_source=chatgpt.com 15/17
+
+10/31/26, 10:14 AM Mcleod Russel India Limited & Anr vs Aditya Birla Finance Limited & Ors on 14 February, 2023
+57. The present case is of a unilateral appointment which is factually distinguishable (as in the
+decisions cited) from an arbitrator whose eligibility is compromised by any one or more of the
+Entries in the Seventh Schedule. There is an obvious difference - and so the decisions say -
+between an arbitrator who is disqualified under the Seventh Schedule and an arbitrator who
+himself is a party to the dispute. The two situations are different in fact, in logic as also in the
+decisions shown to the Court. The arbitration clause in the present case belongs to the first
+category since the Arbitrator was appointed by the respondent no. 1.
+
+58. The petitioner filed an application under section 13 of the Act challenging the Arbitrator's
+appointment on 11.2.2020 which is 10 months after the dispute had arisen between the parties and
+7 months after the petitioner had obtained consent orders pursuant to Statement of
+Defence/affidavit filed by it. The petitioner sought for a fresh disclosure from the Arbitrator
+despite being fully aware that the Arbitrator had made such disclosure much earlier on 12.5.2019.
+
+59. The petitioner bombarded the arbitration with multiple applications filed before different
+forums: a) the section 13 application before the Arbitrator; b) an application under section 14 for
+termination of the Arbitrator's mandate; c) a section 34 application for setting aside the Award
+passed by the Arbitrator on 30.6.2020 and d) an SLP before the Supreme Court challenging the
+order of the High Court dated 4.8.2020 whereby the petitioner was directed to secure an additional
+amount of Rs. 40 crores. The petitioner did not secure this amount and filed the SLP. The
+petitioner however withdrew the SLP after 2 years on 2.5.2022 without complying with the order
+of the High Court with regard to furnishing of security.
+
+60. It is also significant to note that the petitioner raised an issue of bias against the Arbitrator
+without waiting for the Arbitrator to decide on the application filed under section 13 of the Act
+(challenging the appointment of the Arbitrator) and without waiting for the respondent no. 1 to file
+their response to the application.
+
+61. The petitioner has obtained the benefit of the consent orders dated 15.7.2019 based on the
+statements made by the petitioner in the Statement of Defence/affidavit whereby the respondent
+no. 1 had given up the security prevailing at the time. The petitioner therefore persuaded the
+respondent no. | to alter its position and obtained consent orders while failing to comply with the
+directions passed by the High Court on furnishing of security.
+
+62. The petitioners’ actions amount to a clear and unambiguous agreement, express and in writing,
+under the proviso to section 12(5). Any other construction would encourage a context-abhorrent
+construction of the Act of 1996.
+
+IV. Finally and for the above reasons;
+
+63. Section 14 of the Act provides for two instances whereby the mandate of an arbitrator shall
+terminate. The dispute is not with regard to the Arbitrator withdrawing from his office or the
+parties before the Court agreeing to the termination of his mandate or the Arbitrator acting with
+undue delay. The controversy is whether the Arbitrator has become de jure or de facto unable to
+perform his functions by reason of the statutory bar under section 12(5) of the Act.
+
+https://indiankanoon.org/doc/65204146/?type=print&utm_source=chatgpt.com 16/17
+
+10/31/26, 10:14 AM Mcleod Russel India Limited & Anr vs Aditya Birla Finance Limited & Ors on 14 February, 2023
+64. After discussing the import of section 12(5) read with the proviso, this Court finds and
+accordingly holds that section 12(5) is not applicable to this case since the alleged disqualification
+does not breach any one or more of the conflict-protections in the Entries of the Seventh Schedule.
+Even if it is assumed that the Arbitrator became ineligible by reason of the Seventh Schedule, the
+petitioners waived such disqualification by their express writings, conduct and agreement as
+envisaged under the proviso to section 12(5) of the Act.
+
+65. Therefore, there is no material disclosed in the petition for terminating the mandate of the
+Arbitrator. The law does not support the petitioners’ case.
+
+66, AP 106 of 2020 is accordingly dismissed without any order as to costs.
+
+Urgent Photostat certified copies of this judgment, if applied for, be supplied to the parties upon
+fulfillment of requisite formalities.
+
+(Moushumi Bhattacharya, J.)
+
+https://indiankanoon.org/doc/65204146/?type=print&utm_source=chatgpt.com 1717

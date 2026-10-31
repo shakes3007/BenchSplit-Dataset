@@ -1,0 +1,3068 @@
+2026 INSC 6
+ 
+REPORTABLE 
+ 
+ 
+IN THE SUPREME COURT OF INDIA 
+CIVIL APPELLATE JURISDICTION  
+CIVIL APPEAL NOS. 37-38 of 2026 
+[Arising out of Special Leave Petition (C) Nos. 16107-16108 of 2025] 
+ 
+ 
+ 
+BHADRA INTERNATIONAL (INDIA) 
+PVT. LTD. & ORS.                                                                    …APPELLANTS 
+ 
+ 
+ 
+VERSUS  
+ 
+ 
+ 
+AIRPORTS AUTHORITY OF INDIA                                …RESPONDENT 
+ 
+ 
+ 
+ 
+ 
+J U D G M E N T 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Digitally signed by
+CHANDRESH
+Date: 2026.01.05
+16:53:04 IST
+Reason:
+Signature Not Verified
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 1 of 72 
+ 
+ 
+ 
+ 
+J.B. PARDIWALA, J.:  
+For the convenience of exposition, this judgment is divided into the 
+following parts:- 
+INDEX 
+ 
+I. FACTUAL MATRIX .................................................................................................... 3 
+II. JUDGMENT OF THE SINGLE JUDGE ON APPLICATION UNDER 
+SECTION 34 OF THE ACT, 1996 ................................................................................. 8 
+III. IMPUGNED JUDGMENT ...................................................................................... 9 
+IV. SUBMISSIONS ON BEHALF OF THE APPELLANTS .................................. 11 
+V. SUBMISSIONS ON BEHALF OF THE RESPONDENT .................................. 14 
+VI. ISSUES FOR CONSIDERATION ....................................................................... 16 
+VII. ANALYSIS ............................................................................................................. 17 
+i. Whether the sole arbitrator could be said to have become “ineligible 
+to be appointed as an arbitrator” by virtue of sub-section (5) of Section 
+12 of the Act, 1996? .................................................................................................. 17 
+a. Interplay between Equal Treatment of Parties and Party Autonomy .................... 17 
+b. Scope and Application of sub-section (5) of Section 12 of the Act, 1996 ................ 21 
+c. Appointment of the sole arbitrator in light of sub-section (5) of Section 12 of the 
+Act, 1996 ............................................................................................................................... 26 
+d. De Jure inability of the arbitrator to perform his functions ..................................... 35 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 2 of 72 
+ 
+ 
+ 
+ 
+ii. Whether the parties could be said to have waived the applicability of sub-
+section (5) of Section 12 of the Act, 1996, by way of their conduct, either 
+expressed or implied? ............................................................................................... 40 
+a. Meaning and Import of the expression “express agreement in writing” used in 
+proviso to sub-section (5) of Section 12 of the Act, 1996 ............................................... 41 
+b.  “Statement of Claim” as a parameter of waiver ....................................................... 49 
+c. “Extension of Time” under Section 29A of the Act, 1996 as a parameter of waiver
+ ............................................................................................................................................... 50 
+d. “Continued Participation” as a parameter of waiver ............................................... 52 
+iii. Whether the appellants could have raised an objection to the appointment 
+of the sole arbitrator for the first time in an application under Section 34 of 
+the Act, 1996? .............................................................................................................. 54 
+a. Challenge to the ineligibility of the arbitrator during the proceedings .................. 55 
+b. Challenge to the ineligibility of the arbitrator after arbitral award has been passed
+ ............................................................................................................................................... 60 
+c. Challenge to the ineligibility of the arbitrator at any stage of the proceedings .... 64 
+VIII. CONCLUSION .................................................................................................... 70 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 3 of 72 
+ 
+ 
+ 
+ 
+ 
+1. Leave granted.  
+ 
+2. Since the issues raised in both the captioned appeals are the same, the 
+parties are same, and the challenge is also to the self-same judgment 
+and order passed by the High Court, those were taken up for hearing 
+analogously and are being disposed of by this common judgment and 
+order. 
+ 
+3. These appeals arise from the common judgment and order dated 
+11.02.2025 passed by a Division Bench of the High Court of Delhi in 
+FAO(OS) (COMM) Nos. 23 and 24 of 2025 respectively (hereinafter, the 
+“Impugned Judgment”), by which the appeals filed by the appellants 
+herein under Section 37 of the Arbitration and Conciliation Act, 1996 
+(for short, the “Act, 1996”) came to be dismissed thereby affirming the 
+order dated 19.02.2022 passed by a learned Single Judge of the High 
+Court in OMP (COMM) Nos. 414 and 415 of 2018 respectively under 
+Section 34 of the Act, 1996 (hereinafter, the “Single Judge”) dismissing 
+the preliminary objection raised by the appellants as regards unilateral 
+appointment of a sole arbitrator by the respondent.  
+I. FACTUAL MATRIX  
+4. The facts giving rise to the appeals may be summarized as under:-  
+i. 
+The appellant no. 1 and appellant no. 2, viz. Bhadra International 
+(India) Pvt. Ltd., and Novia International Consulting Aps, 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 4 of 72 
+ 
+ 
+ 
+ 
+respectively executed an agreement to form a joint consortium 
+namely Bhadra International (India) Pvt. Ltd. and Novia 
+International Consulting Aps, for the purposes of undertaking 
+ground handling services at various airports in India. The 
+consortium is the appellant no. 3 before us.  
+ 
+ii. 
+The respondent (Airports Authority of India) floated two tender 
+notices inviting tenders for appointment of an agency for ground 
+handling services at some airports. In response to these notices, 
+the appellant no. 3 emerged as the successful bidder. Pursuant 
+to the two notices, the parties executed two License Agreement 
+dated 29.11.2010 (“License Agreement”). As per the License 
+Agreement, the appellant no. 3 was permitted to provide ground 
+handling services at the specified airports.  
+ 
+iii. The aforesaid License Agreement, more particularly, Clause 78 
+provided that in the event of any dispute or difference arising 
+out of the said license agreement the same would have to be 
+resolved through arbitration. The said clause read as under:- 
+“78. All disputes and differences, arising out of or, in any way, 
+touching or concerning this Agreement, (except those the 
+decision whereof is otherwise hereinbefore expressly provided 
+for or to which the Public Premises (Eviction of Unauthorised 
+Occupants) Act, 1971 and the rules framed hereunder which are 
+now in force or which may hereafter come in to force, are 
+applicable) shall be referred to the sole arbitration of a person, to 
+be appointed by the Chairman of the Authority or, in case the 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 5 of 72 
+ 
+ 
+ 
+ 
+designation of Chairman is changed or his office is abolished, by 
+the person, for the time being entrusted, whether or not, in 
+addition to other functions, with the functions of the Chairman, 
+Airports Authority of India, by whatever designation such 
+person may be called, and, if the Arbitrator, so appointed, is 
+unable or unwilling to act, to the sole arbitrations or some other 
+person to be similarly appointed. It will be no objection to such 
+appointment that the Arbitrator so appointment is a servant of 
+the Authority, that he had to deal with the matters to which this 
+Agreement relates and that in the course of his duties, as such 
+servant of the Authority, he had expressed views on all or any 
+of the matters in dispute or differences. The award of the 
+arbitrator, so appointment, shall be final and binding on the 
+Parties. The Arbitrator may, with the consent of the parties, 
+enlarge, from time to time, the time for making and publishing 
+the award. The venue of the arbitration shall be at New Delhi.” 
+ 
+(Emphasis is ours) 
+ 
+iv. On 23.10.2015, the Arbitration and Conciliation (Amendment) 
+Act, 2015 came into effect (for short, “the Amendment Act, 
+2015”), by which sub-section (5) was inserted into Section 12. The 
+provision reads thus:- 
+“[(5) Notwithstanding any prior agreement to the contrary, any 
+person whose relationship, with the parties or counsel or the 
+subject-matter of the dispute, falls under any of the categories 
+specified in the Seventh Schedule shall be ineligible to be 
+appointed as an arbitrator:  
+ 
+Provided that parties may, subsequent to disputes having 
+arisen between them, waive the applicability of this sub-section 
+by an express agreement in writing.]” 
+ 
+v. 
+Sometime, in the year 2015, various disputes cropped up 
+between the appellants and the respondent herein. Accordingly, 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 6 of 72 
+ 
+ 
+ 
+ 
+the appellants vide notice dated 27.11.2015 invoked the 
+arbitration clause and requested the respondent to appoint an 
+arbitrator in terms of Clause 78 of the aforesaid License 
+Agreement. The relevant part of the notice reads thus:-  
+“We also like to bring out most humbly that it is incumbent 
+upon the Chairman AAI to appoint the Sole Arbitrator within 
+a reasonable time, least we might not be left with no recourse, 
+but to seek a relief under Section 11, Sub Section 6, Chapter III 
+of the Arbitration & Reconciliation Act 1996.” 
+ 
+vi. On 22.03.2016, the sole arbitrator passed the first procedural 
+order recording that none of the parties had any objection to his 
+appointment. The procedural order reads thus:- 
+“PROCEDURAL ORDER NO. 1 
+With 
+Minutes of, and the Directions made at, the hearing on 
+22.03.2016 at 1:00 pm 
+[AT D-247 (Basement), Defence Colony, New Delhi-110024] 
+This preliminary meeting of the Tribunal was held D-247 
+(Basement), Defence Colony, New Delhi-110024 on 22nd 
+March, 2016 at 1:00 PM. None of the parties have any objection 
+to my appointment as the Sole Arbitrator. I declare that I have 
+no interest in any of the Parties, or in the disputes referred to 
+the Sole Arbitrator.[…]”  
+(Emphasis supplied) 
+ 
+vii. At the joint request of the parties, two applications were filed 
+under Section 29A of the Act, 1966, seeking extension of time for 
+the completion of the proceedings. On both the occasions, the 
+applications were allowed by the High Court.  
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 7 of 72 
+ 
+ 
+ 
+ 
+ 
+viii. Ultimately, the sole arbitrator passed the arbitral awards dated 
+30.07.2018 whereby the claims and counter-claims of the 
+respective parties were rejected. In effect, the arbitrator passed a 
+‘Nil’ award.  
+ 
+ix. Aggrieved by the dismissal of its claim, the appellants 
+challenged the award by filing applications under Section 34 of 
+the Act, 1996, bearing O.M.P. (COMM) Nos. 414 and 415 of 2018 
+respectively, before the Single Judge of the High Court.  
+ 
+x. 
+Thereafter, by way of applications bearing I.A. Nos. 1834 and 
+1842 of 2022 respectively, the appellants sought to amend the 
+aforesaid applications to contend that since the arbitrator was 
+appointed unilaterally, the award was liable to be set aside 
+(“Amendment Application”).  
+ 
+xi. The aforesaid applications filed by the appellants came to be 
+rejected by the Single Judge vide order dated 24.12.2024.  
+ 
+xii. Being aggrieved by the aforesaid, the appellants preferred 
+appeals under Section 37 of the Act, 1996, bearing FAO(OS) 
+(COMM) Nos. 23 and 24 of 2025 respectively, seeking to 
+challenge the judgment and order passed by a learned Single 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 8 of 72 
+ 
+ 
+ 
+ 
+Judge. The said appeals came to be dismissed vide the impugned 
+judgment.  
+ 
+xiii. In such circumstances referred to above, the appellants are here 
+before this Court with the present appeals.  
+II. JUDGMENT OF THE SINGLE JUDGE ON APPLICATION 
+UNDER SECTION 34 OF THE ACT, 1996  
+5. 
+Aggrieved by the awards passed by the sole arbitrator, the appellants 
+filed applications under Section 34 of the Act, 1996, raising the 
+preliminary objection that since the appointment of the sole arbitrator 
+was made unilaterally by the respondent, the award was liable to be 
+set aside.  
+ 
+6. 
+The learned Single Judge held that the appointment of the arbitrator 
+was in accordance with the procedure agreed upon by the parties 
+under Clause 78 of the License Agreement. Consequently, it rejected 
+the challenge to the appointment of the sole arbitrator on the following 
+grounds:-  
+i. First, it observed that the sole arbitrator appointed by the 
+respondent did not suffer from any disqualification under the 
+Fifth or Seventh Schedule read with Section 12(5) of the Act, 
+1996. The parties themselves had agreed to the procedure of 
+appointment. Moreover, the appellants did not raise any 
+objection regarding the independence and impartiality of the 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 9 of 72 
+ 
+ 
+ 
+ 
+arbitrator. Accordingly, the appointment of the arbitrator could 
+not have been belatedly called into question.   
+ 
+ii. Secondly, on the issue of waiver, the learned Single Judge 
+observed that the proviso to Section 12(5) of the Act, 1996, 
+stipulates the requirement of clear and positive manifestation of 
+waiver in writing. It observed that mere participation in the 
+arbitral proceedings without raising any objection would not 
+constitute an express waiver in writing as per the requirement of 
+the proviso. However, it arrived at the conclusion that the first 
+procedural order passed by the sole arbitrator explicitly 
+recorded that parties had no objection to his appointment.  
+ 
+iii. Thus, according to the learned Single Judge, the appellants could 
+be said to have waived the applicability of Section 12(5) by not 
+raising an objection before the sole arbitrator in the first 
+procedural order.   
+III. IMPUGNED JUDGMENT 
+7. 
+Feeling aggrieved and dissatisfied with the order passed by the 
+learned Single Judge dismissing the preliminary objection in so far as 
+the appointment of the sole arbitrator, the appellants preferred appeals 
+under Section 37 of the Act, 1996.  
+ 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 10 of 72 
+ 
+ 
+ 
+ 
+8. 
+The High Court, in its impugned judgment, held that the appointment 
+of the sole arbitrator was not unilateral, as the respondent had 
+proceeded to appoint arbitrator only pursuant to the written request 
+made by the appellants. Therefore, it could not be said that the 
+appellants had not consented to the appointment. The High Court 
+further noted that the sole arbitrator had expressly obtained the 
+consent of the parties, and at no point of time the appellants asserted 
+that their consent was incorrectly recorded or that they had not 
+consented.  
+ 
+9. 
+The High Court observed that the appellants continued to participate 
+in the arbitral proceedings without raising any objection. It also 
+observed that the challenge to the jurisdiction of the arbitrator was not 
+raised in the first instance but rather made belatedly through the 
+Amendment Application.  
+ 
+10. The appellants had argued before the High Court that prior to the 
+insertion of sub-section (5) they had no occasion to challenge the 
+appointment of the sole arbitrator. Such a challenge, according to 
+them, could have been raised only after the introduction of sub-section 
+(5) of Section 12. However, the High Court held that it was immaterial 
+as to when the amendment was introduced. The High Court took the 
+view that, the appellants by their conduct could be said to have 
+submitted to the jurisdiction of the sole arbitrator.  
+ 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 11 of 72 
+ 
+ 
+ 
+ 
+11. In the aforesaid context, the High Court observed the fact that the 
+appellants had called upon the respondent to appoint an arbitrator, the 
+sole arbitrator was accordingly appointed, and having unequivocally 
+consented to the arbitral proceedings had no bearing on the insertion 
+of the provision through an amendment. It was further observed that 
+even after the introduction of sub-section (5), the arbitral proceedings 
+continued for more than two years, still the appellants did not, at any 
+stage, raise an objection.  
+ 
+12. Lastly, the High Court observed that the case of the appellants cannot 
+be equated with cases in which an objection to the appointment of the 
+arbitrator have been raised throughout the proceedings, or at every 
+stage.  
+IV. SUBMISSIONS ON BEHALF OF THE APPELLANTS  
+13. Mr. Navin Pahwa, the learned Senior Counsel appearing for the 
+appellants would argue that the sole arbitrator was ineligible to act as 
+an arbitrator as he was unilaterally appointed by the Chairman of the 
+respondent. Such an appointment was void ab initio and non-est in law, 
+and therefore, the arbitral awards would be a nullity. He relied on the 
+decision of this Court in Bharat Broadband Network Ltd. v. United 
+Telecoms Ltd., reported in (2019) 5 SCC 755, to submit that an 
+appointment made by an ineligible person is void ab initio.  
+ 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 12 of 72 
+ 
+ 
+ 
+ 
+14. In the same breath, Mr. Pahwa submitted that since the appointment 
+of the arbitrator was void, the proceedings conducted pursuant to such 
+appointment would also be a nullity. As a result, the awards passed 
+by the sole arbitrator would also be contrary to the public policy of 
+India, and thus, liable to be set aside.  
+ 
+15. He further submitted that where the right to appoint a sole arbitrator 
+rests solely with one party, that party’s choice would inevitably carry 
+an element of exclusivity in determining the course of the arbitration. 
+To fortify his submission, he relied on the decision of this Court in TRF 
+Ltd. v. Energo Engineering Projects Ltd., reported in (2017) 8 SCC 377. 
+He submitted that a Managing Director, ineligible to act as an 
+arbitrator under Section 12(5) read with Seventh Schedule of the Act, 
+1996, could not have appointed an arbitrator or nominate any other 
+person to be an arbitrator.  
+ 
+16. He highlighted that this Court has affirmed the decision in TRF (supra) 
+in Perkins Eastman Architects DPC & Anr. v. HSCC (India) Ltd., 
+reported in (2020) 20 SCC 760. In the present case, the Chairman of the 
+respondent was ineligible to act as an arbitrator by virtue of Items 1, 5, 
+and 12 of the Seventh Schedule respectively. Consequently, any 
+arbitrator appointed by such an ineligible person would be, by 
+operation of law, equally ineligible to act as an arbitrator.  
+ 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 13 of 72 
+ 
+ 
+ 
+ 
+17. It was further submitted that an objection to the unilateral 
+appointment may be raised at any stage, including for the first time in 
+Section 34 proceedings. He added that the appellants by participating 
+in the proceedings did not waive their right to raise an objection in 
+terms of the proviso to Section 12(5) of the Act, 1996. To fortify his 
+submission, he relied on the decision in Lion Engineering Consultants 
+v. State of Madhya Pradesh, reported in (2018) 16 SCC 758, Hindustan 
+Zinc Ltd. v. Ajmer Vidyut Vitran Nigam Ltd., reported in (2019) 17 
+SCC 82, Kotak Mahindra Bank Ltd. v. Narendra Kumar Prajapat, 
+reported in 2023 SCC OnLine Del 3148 respectively. 
+ 
+18. Mr. Pahwa further submitted that the proviso to Section 12(5) makes it 
+limpid that ineligibility of an arbitrator could only be waived by an 
+“express agreement in writing” between the parties, and such an 
+agreement must be entered into after disputes have arisen. To make 
+good his case, Mr. Pahwa placed reliance on the decisions of this Court 
+in Bharat Broadband (supra) and Central Organization for Railway 
+Electrification v. ECI SPIR SMO MCML (JV) A Joint Venture 
+Company, reported in (2025) 4 SCC 641 (“CORE II”).  
+ 
+19. He would submit that the law requires a conscious waiver, reduced 
+into writing and signed by both parties. In this regard, he submitted 
+that mere participation in proceedings, filing of statement of claim, 
+silence, or not objecting to the appointment is insufficient to constitute 
+a waiver. In the present case, the notice of invocation of arbitration, or 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 14 of 72 
+ 
+ 
+ 
+ 
+not objecting in the first procedural order, or participating in the 
+proceedings, or filing application under Sections 17 or 29A 
+respectively would not amount to an “express agreement in writing”.  
+ 
+20. In such circumstances referred to above, the learned Senior Counsel 
+appearing for the appellants-claimants would submit that there being 
+merit in his appeals, the same may be allowed and the impugned 
+judgment passed by the High Court may be set aside.  
+V. SUBMISSIONS ON BEHALF OF THE RESPONDENT  
+21. Mr. Parag Tripathi, the learned Senior Counsel appearing for the 
+respondent would submit that no error, not to speak of any error of 
+law, could be said to have been committed by the High Court in 
+passing the impugned judgment. 
+ 
+22. Mr. Tripathi submitted that the limited question that falls for the 
+consideration of this Court is whether the present case falls within the 
+proviso to Section 12(5) of the Act, 1996. In other words, whether there 
+was a waiver by an “express agreement in writing”.  
+ 
+23. He submitted that the first procedural order recording the consent of 
+the appellants would constitute an “express agreement in writing” as per 
+the proviso as it was subsequent to the dispute arising between the 
+parties. Mr. Tripathi emphasized that the provision does not provide 
+a format for an “express agreement”. He added that in so far as proposal 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 15 of 72 
+ 
+ 
+ 
+ 
+or acceptance of any promise is made in words, the promise is said to 
+be express. To make good this submission, he relied on the decision in 
+the case of Bharat Broadband (supra).  
+ 
+24. It was further submitted that no objection/consent of the appellants 
+recorded in the first procedural order acts as an acknowledgment in 
+writing with respect to the qualifications as well as the appointment of 
+the sole arbitrator. The appellants had also filed their statement of 
+claim before the sole arbitrator. This is suggestive of the fact that the 
+appellants in explicit terms had submitted to the jurisdiction of the sole 
+arbitrator, and agreed to get the dispute resolved by the sole arbitrator.  
+ 
+25. Mr. Tripathi relied on McLeod Russel India Ltd. & Ors. v. Aditya Birla 
+Finance Ltd. & Ors., reported in 2023 SCC OnLine Cal 330, and Anuj 
+Kumar v. Franchise India Brands Ltd., reported in 2023 SCC OnLine 
+Del 2560, to submit that the contents of pleadings or communication 
+constitute an express agreement in writing, and the decision in Anuj 
+Kumar (supra) is not in conflict with the decision of this Court in 
+Bharat Broadband (supra).  
+ 
+26. Mr. Tripathi further submitted that although sub-section (5) of Section 
+12 read with Seventh Schedule of the Act, 1996 was introduced during 
+the pendency of the arbitral proceedings, yet the appellants chose not 
+to raise an objection to the appointment of the sole arbitrator. 
+Accordingly, he submitted that the appellants did not raise any 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 16 of 72 
+ 
+ 
+ 
+ 
+objection 
+as 
+to 
+the 
+constitution, 
+appointment, 
+jurisdiction, 
+independence or impartiality of the sole arbitrator under Sections 13, 
+14, or 16 of the Act, 1996, respectively throughout the proceedings.  
+ 
+27. He added that the appellants raised the objection to the appointment 
+of the sole arbitration only by way of an amendment to the Section 34 
+application. The appellants did so as an afterthought, more than three 
+years after filing the said application.  
+ 
+28. In such circumstances referred to above, the learned Senior Counsel 
+prayed that there being no merit in the appeals, the same may be 
+dismissed.  
+VI. ISSUES FOR CONSIDERATION  
+29. Having heard the learned counsel appearing for the parties and having 
+gone through the materials on record, the following questions fall for 
+our consideration:-  
+i. Whether the sole arbitrator could be said to have become 
+“ineligible to be appointed as an arbitrator” by virtue of sub-section 
+(5) of Section 12 of the Act, 1996?  
+ 
+ii. Whether the parties could be said to have waived the applicability 
+of sub-section (5) of Section 12 of the Act, 1996, by way of their 
+conduct, either expressed or implied?  
+ 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 17 of 72 
+ 
+ 
+ 
+ 
+iii. Whether the appellants could have raised an objection to the 
+appointment of the sole arbitrator for the first time in an 
+application under Section 34 of the Act, 1996? 
+VII. ANALYSIS  
+i. Whether the sole arbitrator could be said to have become 
+“ineligible to be appointed as an arbitrator” by virtue of sub-
+section (5) of Section 12 of the Act, 1996?  
+30. It was submitted on behalf of the appellants herein that the sole 
+arbitrator appointed by the Chairman of the respondent was ineligible 
+to act as an arbitrator as he was appointed unilaterally. Further, such 
+an appointment was void ab initio and non-est in law.           
+                                                                                                                                                
+31. On the aforesaid issue, the High Court, in its impugned judgment, held 
+that the appointment of the sole arbitrator was not unilateral, as the 
+respondents had proceeded to appoint the arbitrator only pursuant to 
+the written request of the appellants. Therefore, the notice invoking 
+arbitration operated as the appellants’ consent to the appointment of 
+the arbitrator. 
+a. Interplay between Equal Treatment of Parties and Party 
+Autonomy 
+32. In order to address this issue, we shall first look into Section 18 of the 
+Act, 1996. It reads thus:-  
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 18 of 72 
+ 
+ 
+ 
+ 
+“18. Equal treatment of parties.—The parties shall be treated 
+with equality and each party shall be given a full opportunity to 
+present this case.” 
+ 
+33. Section 18 outlines two principles: first, equal treatment of parties; and 
+secondly, right to a fair hearing. The principle of equal treatment of 
+parties applies not only to the arbitral proceedings, but also to the 
+procedure for appointment of arbitrators. The section casts a 
+responsibility on the arbitrator to act impartially, objectively, and 
+without bias, and also on the parties to adhere to standards of fairness. 
+The principle of ‘equal treatment of the parties’ means that the parties 
+must have the possibility of participating in the constitution of the 
+arbitral tribunal on equal terms.  
+ 
+34. Equal participation of the parties in the process of appointment of 
+arbitrators entails that the contracting parties have an equal say in the 
+constitution of the arbitral tribunal. Such participation eliminates the 
+likelihood of challenges to the arbitrator at a later stage. It is needless 
+to say that independence and impartiality in arbitral proceedings 
+would be served only when the parties participate equally at all stages. 
+ 
+35. It would be apposite to refer to the following observations of P.S. 
+Narasimha, J., in CORE II (supra):-  
+“Distinct duties of arbitrators and arbitrating parties 
+231. There are two distinct obligations. The first is the 
+obligation of the parties to the agreement, and the second is the 
+neutrality and objectivity that an arbitrator must maintain. The 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 19 of 72 
+ 
+ 
+ 
+ 
+obligations on the parties to the arbitration agreement to 
+constitute an independent and impartial Arbitral Tribunal is 
+distinct from the objectivity and impartiality that an 
+arbitrator(s) must himself maintain. The foundation of the 
+former is within the statutory framework, coupled with certain 
+public policy considerations. The latter is simply the duty to act 
+judicially, it is not superimposed by any statute or public policy, 
+but arises because of the very nature of the calling i.e. to judge 
+what is right and what is wrong.[…]” 
+(Emphasis supplied) 
+ 
+36. The principle of equal treatment of parties is not new to the arbitration 
+regime in India. It has long been recognised that equal participation in 
+the constitution of the arbitral tribunal is integral in ensuring 
+impartiality and preserving fairness of the arbitral process. Even prior 
+to the Amendment Act, 2015, this Court in Dharma Prathishthanam 
+v. Madhok Construction (P) Ltd., reported in (2005) 9 SCC 686, held 
+that a unilateral appointment, without the consent of the other party is 
+illegal and alien to law. The relevant observations read thus:-  
+“12. On a plain reading of the several provisions referred to 
+hereinabove, we are clearly of the opinion that the procedure 
+followed and the methodology adopted by the respondent is 
+wholly unknown to law and the appointment of the sole 
+arbitrator Shri Swami Dayal, the reference of disputes to such 
+arbitrator and the ex parte proceedings and award given by the 
+arbitrator are all void ab initio and hence nullity, liable to be 
+ignored. In case of arbitration without the intervention of the 
+court, the parties must rigorously stick to the agreement entered 
+into between the two. If the arbitration clause names an 
+arbitrator as the one already agreed upon, the appointment of an 
+arbitrator poses no difficulty. If the arbitration clause does not 
+name an arbitrator but provides for the manner in which the 
+arbitrator is to be chosen and appointed, then the parties are 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 20 of 72 
+ 
+ 
+ 
+ 
+bound to act accordingly. If the parties do not agree then arises 
+the complication which has to be resolved by reference to the 
+provisions of the Act. One party cannot usurp the jurisdiction 
+of the court and proceed to act unilaterally. A unilateral 
+appointment and a unilateral reference — both will be illegal. It 
+may make a difference if in respect of a unilateral appointment 
+and reference the other party submits to the jurisdiction of the 
+arbitrator and waives its rights which it has under the 
+agreement, then the arbitrator may proceed with the reference 
+and the party submitting to his jurisdiction and participating 
+in the proceedings before him may later on be precluded and 
+estopped from raising any objection in that regard.[…]” 
+ 
+(Emphasis supplied) 
+ 
+37. What flows from the aforesaid is that the principle of equal treatment 
+of parties which has always formed part of the Act, 1996, has been 
+articulated with greater clarity and precision by the legislature 
+through the Amendment Act, 2015. The Amendment Act, 2015, just 
+crystallizes what was previously implicit. It makes the statutory 
+guarantee of equal treatment in the process of appointment of the 
+arbitrator explicit.  
+ 
+38. One another good reason to hold the aforesaid is that, although Section 
+11(2) of the Act, 1996, stipulates that the parties are free to agree on a 
+procedure for appointing the arbitrator or arbitrators, yet this freedom 
+is not unbridled. The exercise of party autonomy must operate within 
+the framework of the Act, 1996. In case of conflict, mandatory 
+provisions of the Act, 1996, prevail over the arbitration agreement.  
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 21 of 72 
+ 
+ 
+ 
+ 
+ 
+39. The principle of party autonomy does not obliterate the principle of 
+equal treatment of the parties, either in the procedure for appointment 
+of arbitrators or in the arbitral proceedings. The exercise of party 
+autonomy has to be in consonance with the principles of equal 
+treatment of parties, which impliedly include the independence and 
+impartiality of arbitrators.  
+b. Scope and Application of sub-section (5) of Section 12 of the 
+Act, 1996 
+40. The Amendment Act, 2015, was introduced with the objective of 
+ensuring neutrality of an arbitrator when he is approached in 
+connection with a possible appointment. Therefore, with a view to 
+inculcate the principles of independence and impartiality, the 
+Amendment Act, 2015, brought amendments, inter alia, to Section 12 
+of the Act, 1996. The amended section reads thus:- 
+“12. Grounds for challenge.—4 [(1) When a person is 
+approached in connection with his possible appointment as an 
+arbitrator, he shall disclose in writing any circumstances,—  
+ 
+(a) such as the existence either direct or indirect, of any past 
+or present relationship with or interest in any of the parties or 
+in relation to the subject-matter in dispute, whether financial, 
+business, professional or other kind, which is likely to give rise 
+to justifiable doubts as to his independence or impartiality; and  
+ 
+(b) which are likely to affect his ability to devote sufficient 
+time to the arbitration and in particular his ability to complete 
+the entire arbitration within a period of twelve months.  
+ 
+Explanation1.—The grounds stated in the Fifth Schedule 
+shall guide in determining whether circumstances exist which 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 22 of 72 
+ 
+ 
+ 
+ 
+give rise to justifiable doubts as to the independence or 
+impartiality of an arbitrator.  
+ 
+Explanation 2.—The disclosure shall be made by such 
+person in the form specified in the Sixth Schedule.]  
+(2) An arbitrator, from the time of his appointment and 
+throughout the arbitral proceedings, shall, without delay, 
+disclose to the parties in writing any circumstances referred to 
+in sub-section (1) unless they have already been informed of 
+them by him. 
+(3) An arbitrator may be challenged only if—  
+ 
+(a) circumstances exist that give rise to justifiable doubts as 
+to his independence or impartiality, or  
+ 
+(b) he does not possess the qualifications agreed to by the 
+parties.  
+(4) A party may challenge an arbitrator appointed by him, or in 
+whose appointment he has participated, only for reasons of 
+which he becomes aware after the appointment has been made.  
+[(5) Notwithstanding any prior agreement to the contrary, any 
+person whose relationship, with the parties or counsel or the 
+subject-matter of the dispute, falls under any of the categories 
+specified in the Seventh Schedule shall be ineligible to be 
+appointed as an arbitrator:  
+ 
+Provided that parties may, subsequent to disputes having 
+arisen between them, waive the applicability of this sub-section 
+by an express agreement in writing.]”  
+ 
+41. Sub-section (1) of Section 12 stipulates that when a person is 
+approached to be an arbitrator, he must disclose in writing any 
+circumstance which may fall under clauses (a) and (b) of sub-section 
+(1) respectively. Clause (a) relates to circumstances that may give rise 
+to justifiable doubts as to his independence or impartiality. Whereas, 
+clause (b) relates to disclosures about the person’s ability to devote 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 23 of 72 
+ 
+ 
+ 
+ 
+sufficient time to the arbitration and to complete the proceedings 
+within the prescribed time period.  
+ 
+42. For disclosure under clause (a), the Fifth Schedule, consisting of 34 
+items, is of aid. The items enumerated in the Fifth Schedule provides 
+for the circumstances that may give rise to justifiable doubts about an 
+arbitrator’s independence or impartiality after appointment.  
+ 
+43. While the information required to be disclosed under clause (b) is 
+personal to the individual and could be disclosed only by him. The 
+disclosure has to be made in the form specified in the Sixth Schedule, 
+and has to be made by all proposed arbitrators. It is noteworthy to 
+mention that sub-section (1) comes into application prior to the 
+appointment of a person as an arbitrator.  
+ 
+44. Sub-section (2) of Section 12 states that from the appointment of the 
+arbitrator and throughout the arbitral proceedings, the arbitrator 
+must, without delay, disclose in writing any circumstance referred to 
+in sub-section (1) that arises after his appointment. However, if the 
+arbitrator has already informed the parties of the said circumstance 
+earlier, he is not required to make a disclosure again.  
+ 
+45. Sub-section (3) of Section 12 lays down two grounds for challenge to 
+appointment of an arbitrator: first, if any circumstances exist that give 
+rise to justifiable doubts about an arbitrator’s independence or 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 24 of 72 
+ 
+ 
+ 
+ 
+impartiality. Secondly, if the arbitrator does not possess the 
+qualifications agreed to by the parties. Sub-section (4) prescribes a 
+caution. It states that a challenge to the appointment of an arbitrator 
+could be maintained only on the grounds that were not disclosed 
+during or after the appointment.  
+ 
+46. Sub-section (5) of Section 12 states that any person whose relationship 
+with the parties or counsel, or the subject-matter of the dispute, falls 
+under any of the grounds mentioned in the Seventh Schedule would 
+be ineligible to be appointed as an arbitrator. It invalidates any prior 
+agreement to the contrary, i.e., an agreement providing for 
+appointment of an arbitrator who would become ineligible on the 
+application of sub-section (5). The proviso to the sub-section provides 
+that after dispute arises between the parties, they may waive the 
+applicability of this provision by entering into an express agreement 
+in writing.  
+ 
+47. The Seventh Schedule lists 19 items, which also form part of the 34 
+items of the Fifth Schedule. In other words, the Seventh Schedule is a 
+subset of the Fifth Schedule. It is the duty of an arbitrator to keep in 
+mind the items enlisted in the Fifth Schedule and make a disclosure in 
+accordance with the Sixth Schedule. Out of the said 34 items, the 
+legislature has placed 19 items in the Seventh Schedule which make an 
+arbitrator ineligible for appointment. We clarify with a view to obviate 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 25 of 72 
+ 
+ 
+ 
+ 
+any confusion that the Seventh Schedule applies irrespective of 
+whether the appointment has been made unilaterally.   
+ 
+48. If any entry in the Seventh Schedule is attracted, the consequences 
+under Section 12(5) follow. In such circumstances, the disclosure made 
+by the arbitrator does not save the mandate of the arbitrator, and an 
+agreement referred to in the proviso assumes importance. We shall 
+discuss the scope and application of the sub-section (5), as well as its 
+proviso, in more detail in the latter part of this judgment.  
+ 
+49. We may now proceed to address the aforesaid issue. There have been 
+submissions by the parties on the applicability of the Amendment Act, 
+2015, to the present case as the parties executed the License Agreement 
+in 2010. Section 26 of the Amendment Act, 2015, makes it limpid that 
+the Amendment Act, 2015, would apply to arbitral proceedings 
+commenced on or after 23.10.2015. It is a well settled position of law 
+that in the absence of any contrary stipulation in the agreement, 
+arbitral proceedings commence when a notice invoking arbitration is 
+received by the respondent. [See: Board of Control for Cricket in India 
+v. Kochi Cricket Pvt. Ltd. & Ors., (2018) 6 SCC 287] 
+ 
+50. In the present case, the parties have not agreed to a different 
+commencement date. As a sequitur, the date of commencement of the 
+arbitral proceedings was 27.11.2015, i.e., when the notice invoking 
+arbitration was received by the respondent. Thus, the Amendment 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 26 of 72 
+ 
+ 
+ 
+ 
+Act, 2015, more particularly, sub-section (5) of Section 12 of the Act, 
+1996, would apply to the matter at hand.  
+c. Appointment of the sole arbitrator in light of sub-section (5) of 
+Section 12 of the Act, 1996 
+51. There is a conspectus of decisions of this Court which lay down that, 
+Section 12 was amended with the objective of ensuring independence 
+and impartiality of arbitrators. By virtue of sub-section (5) of Section 
+12, any person whose relationship with the parties or counsel, or the 
+dispute, whether direct or indirect, falls within any of the categories 
+specified in the Seventh Schedule is rendered ineligible to be 
+appointed as an arbitrator. We need not discuss all the decisions, but 
+rather intend to refer and rely upon only a few of them.  
+ 
+52. In TRF (supra), the arbitration agreement stated that any dispute or 
+difference between the parties in connection with the agreement shall 
+be referred to the sole arbitration of the Managing Director or his 
+nominee. The issue before this Court was whether the Managing 
+Director, after becoming ineligible by operation of law, is still eligible 
+to nominate an arbitrator.  
+ 
+In this context, a three Judge Bench of this Court categorically 
+held that if any person falls under any of the categories mentioned in 
+the Seventh Schedule, he would be ineligible to be appointed as an 
+arbitrator. In the facts of the case, it was held that the Managing 
+Director, by virtue of sub-section (5) of Section 12, acquired the 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 27 of 72 
+ 
+ 
+ 
+ 
+disqualification under the Seventh Schedule. Thus, as he became 
+ineligible by operation of law to act as an arbitrator, he could not have 
+nominated another person as an arbitrator. The relevant observations 
+read thus:- 
+“54. In such a context, the fulcrum of the controversy would be, 
+can an ineligible arbitrator, like the Managing Director, 
+nominate an arbitrator, who may be otherwise eligible and a 
+respectable person. As stated earlier, we are neither concerned 
+with the objectivity nor the individual respectability. We are 
+only concerned with the authority or the power of the Managing 
+Director. By our analysis, we are obligated to arrive at the 
+conclusion that once the arbitrator has become ineligible by 
+operation of law, he cannot nominate another as an arbitrator. 
+The arbitrator becomes ineligible as per prescription contained 
+in Section 12(5) of the Act. It is inconceivable in law that person 
+who is statutorily ineligible can nominate a person. Needless to 
+say, once the infrastructure collapses, the superstructure is 
+bound to collapse. One cannot have a building without the 
+plinth. Or to put it differently, once the identity of the 
+Managing Director as the sole arbitrator is lost, the power to 
+nominate someone else as an arbitrator is obliterated. Therefore, 
+the view expressed by the High Court is not sustainable and we 
+say so.” 
+(Emphasis supplied) 
+ 
+ 
+53. In a similar fact situation wherein the arbitration agreement 
+empowered the Chairman and Managing Director of the respondent 
+to appoint a sole arbitrator, the issue before this Court in Bharat 
+Broadband (supra) was whether the CMD, after becoming ineligible by 
+operation of law, is still eligible to appoint an arbitrator.  
+ 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 28 of 72 
+ 
+ 
+ 
+ 
+The Court held that where a person falls within any of the 
+categories set out in the Seventh Schedule, which could be by virtue of 
+a relationship with the parties, or their counsel, or the subject-matter 
+of the dispute, such a person becomes ineligible to be appointed as an 
+arbitrator. The ineligibility could be removed after dispute has arisen, 
+and only if the parties waive the applicability of the provision by an 
+“express agreement in writing”. The arbitrator becomes de jure unable to 
+perform his function as he falls within the categories mentioned in the 
+Seventh Schedule. The relevant observations read thus:- 
+“15. Section 12(5), on the other hand, is a new provision which 
+relates to the de jure inability of an arbitrator to act as such. 
+Under this provision, any prior agreement to the contrary is 
+wiped out by the non obstante clause in Section 12(5) the 
+moment any person whose relationship with the parties or the 
+counsel or the subject-matter of the dispute falls under the 
+Seventh Schedule. The sub-section then declares that such 
+person shall be “ineligible” to be appointed as arbitrator. The 
+only way in which this ineligibility can be removed is by the 
+proviso, which again is a special provision which states that 
+parties may, subsequent to disputes having arisen between 
+them, waive the applicability of Section 12(5) by an express 
+agreement in writing. What is clear, therefore, is that where, 
+under any agreement between the parties, a person falls within 
+any of the categories set out in the Seventh Schedule, he is, as a 
+matter of law, ineligible to be appointed as an arbitrator. The 
+only way in which this ineligibility can be removed, again, in 
+law, is that parties may after disputes have arisen between 
+them, waive the applicability of this sub-section by an “express 
+agreement in writing”. Obviously, the “express agreement in 
+writing” has reference to a person who is interdicted by the 
+Seventh Schedule, but who is stated by parties (after the 
+disputes have arisen between them) to be a person in whom they 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 29 of 72 
+ 
+ 
+ 
+ 
+have faith notwithstanding the fact that such person is 
+interdicted by the Seventh Schedule.” 
+(Emphasis supplied) 
+ 
+54. We may also look into the decision of this Court in Perkins Eastman 
+(supra), where the arbitration clause empowered the Chairman and 
+Managing Director of the respondent to appoint a sole arbitrator. 
+Following TRF (supra), this Court held that the Managing Director was 
+incompetent to appoint the sole arbitrator because he would be deemed 
+to have an interest in the outcome of the dispute. Since, the ineligibility 
+stems from the operation of law, not only is a person having an interest 
+in the dispute or its outcome ineligible to act as an arbitrator, but 
+appointment by such a person would be ex facie invalid. The relevant 
+observations read thus:-  
+“20. We thus have two categories of cases. The first, similar to 
+the one dealt with in TRF Ltd. [TRF Ltd. v. Energo Engg. 
+Projects Ltd., (2017) 8 SCC 377 : (2017) 4 SCC (Civ) 72] where 
+the Managing Director himself is named as an arbitrator with 
+an additional power to appoint any other person as an 
+arbitrator. In the second category, the Managing Director is not 
+to act as an arbitrator himself but is empowered or authorised to 
+appoint any other person of his choice or discretion as an 
+arbitrator. If, in the first category of cases, the Managing 
+Director was found incompetent, it was because of the interest 
+that he would be said to be having in the outcome or result of 
+the dispute. The element of invalidity would thus be directly 
+relatable to and arise from the interest that he would be having 
+in such outcome or decision. If that be the test, similar invalidity 
+would always arise and spring even in the second category of 
+cases. If the interest that he has in the outcome of the dispute, is 
+taken to be the basis for the possibility of bias, it will always be 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 30 of 72 
+ 
+ 
+ 
+ 
+present irrespective of whether the matter stands under the first 
+or second category of cases. We are conscious that if such 
+deduction is drawn from the decision of this Court in TRF 
+Ltd. [TRF Ltd. v. Energo Engg. Projects Ltd., (2017) 8 SCC 
+377 : (2017) 4 SCC (Civ) 72] , all cases having clauses similar 
+to that with which we are presently concerned, a party to the 
+agreement would be disentitled to make any appointment of an 
+arbitrator on its own and it would always be available to argue 
+that a party or an official or an authority having interest in the 
+dispute would be disentitled to make appointment of an 
+arbitrator. 
+ 
+21. But, in our view that has to be the logical deduction 
+from TRF Ltd. [TRF Ltd. v. Energo Engg. Projects Ltd., (2017) 
+8 SCC 377 : (2017) 4 SCC (Civ) 72] Para 50 of the decision 
+shows that this Court was concerned with the issue, “whether 
+the Managing Director, after becoming ineligible by operation 
+of law, is he still eligible to nominate an arbitrator” The 
+ineligibility referred to therein, was as a result of operation of 
+law, in that a person having an interest in the dispute or in the 
+outcome or decision thereof, must not only be ineligible to act as 
+an arbitrator but must also not be eligible to appoint anyone else 
+as an arbitrator and that such person cannot and should not 
+have any role in charting out any course to the dispute 
+resolution by having the power to appoint an arbitrator. The 
+next sentences in the paragraph, further show that cases where 
+both the parties could nominate respective arbitrators of their 
+choice were found to be completely a different situation. The 
+reason is clear that whatever advantage a party may derive by 
+nominating an arbitrator of its choice would get counter-
+balanced by equal power with the other party. But, in a case 
+where only one party has a right to appoint a sole arbitrator, its 
+choice will always have an element of exclusivity in determining 
+or charting the course for dispute resolution. Naturally, the 
+person who has an interest in the outcome or decision of the 
+dispute must not have the power to appoint a sole arbitrator. 
+That has to be taken as the essence of the amendments brought 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 31 of 72 
+ 
+ 
+ 
+ 
+in by the Arbitration and Conciliation (Amendment) Act, 2015 
+(3 of 2016) and recognised by the decision of this Court in TRF 
+Ltd. [TRF Ltd. v. Energo Engg. Projects Ltd., (2017) 8 SCC 
+377 : (2017) 4 SCC (Civ) 72]” 
+(Emphasis supplied) 
+ 
+55. The Bombay High Court, in Lite Bite Foods Pvt. Ltd. v. AAI, reported 
+in 2019 SCC OnLine Bom 5163, dealt with a submission similar to the 
+one arising from Clause 75 of the License Agreement before us. It was 
+contended that only when an employee of the respondent is the named 
+arbitrator does such person become ineligible to act, and equally 
+ineligible to nominate another arbitrator.  
+ 
+The Court held that the embargo under sub-section (5) of Section 
+12 is against granting any single party a unilateral or one-sided 
+authority in constituting the arbitral tribunal. We are in complete 
+agreement with the observations of G. S. Patel, J., that, “The guiding 
+principle is neutrality, independence, fairness and transparency even in the 
+arbitral-forum selection process”. The relevant observations read thus:-  
+“23. The present case may not be within the confines of TRF 
+Ltd., i.e. the tender approving authority is not both arbitrator 
+and, if disqualified, the sole repository of arbitrator-appointing 
+power. He is only the latter. But that now matters at all. Perkins 
+Eastman clearly holds the field and it covers a situation 
+precisely such as the present one where AAI — and only AAI 
+— has the exclusive right of appointed (not merely nominating) 
+an arbitrator. The question is not, as Ms. Munim would have 
+it, the perceived bias or impartiality of the arbitrator. He may 
+well be an unknown entity. The question is of one-sidedness in 
+the arbitral tribunal appointment procedure itself. This is the 
+destination to which Perkins Eastman takes us for it requires 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 32 of 72 
+ 
+ 
+ 
+ 
+that there be neutrality in the dispute resolution process 
+throughout. If I might be permitted a license, in my reading of 
+it, what Perkins Eastman says is this : that you cannot have an 
+impartial arbitration free from all justifiable doubt if the manner 
+in which the arbitral tribunal is constituted itself is beset by 
+justifiable doubt.” 
+xxx 
+25. Ms. Munim's last submission is that the only prohibition is 
+against a named person being the arbitrator or empowered to 
+appoint an arbitrator. This is clearly incorrect. The interdiction 
+runs against any one party being given unilateral or one-sided 
+power in the matter of constitution of the arbitral tribunal.” 
+ 
+(Emphasis supplied) 
+ 
+56. The phrase “operation of law” mentioned in the aforesaid decisions 
+covers the Act, 1996, as well as the Constitution of India and any other 
+Central of State law. In Lombardi Engg. Ltd. v. Uttarakhand Jal Vidyut 
+Nigam Ltd., reported in (2024) 4 SCC 341, where one of us, J.B. 
+Pardiwala, J., speaking for the Bench held that an arbitration 
+agreement has to comply with the requirements of (i) Section 7 of the 
+Act, 1996; (ii) any other provisions of the Act, 1996, and Central/State 
+law; (iii) Constitution of India. We may refer to the following 
+observations for the benefit of exposition:-  
+“79.5. In State of A.P. v. P. Laxmi Devi [State of A.P. v. P. 
+Laxmi Devi, (2008) 4 SCC 720] , this Court observed : (SCC p. 
+737, paras 33-34) 
+“33. According to Kelson, in every country there is a 
+hierarchy of legal norms, headed by what he calls as the 
+“grundnorm”. If a legal norm in a higher layer of this 
+hierarchy conflicts with a legal norm in a lower layer the 
+former will prevail… 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 33 of 72 
+ 
+ 
+ 
+ 
+34. In India the grundnorm is the Indian Constitution,…” 
+ 
+80. Thus, in the context of the arbitration agreement, the layers 
+of the Grundnorm as per Kelsen's theory would be in the 
+following hierarchy: 
+(i) Constitution of India, 1950; 
+(ii) Arbitration and Conciliation Act, 1996 & any other 
+Central/State law; 
+(iii) Arbitration agreement entered into by the parties in light 
+of Section 7 of the Arbitration and Conciliation Act, 1996. 
+ 
+81. Thus, the arbitration agreement, has to comply with the 
+requirements of the following and cannot fall foul of: 
+(i) Section 7 of the Arbitration and Conciliation Act; 
+(ii) any other provisions of the Arbitration and Conciliation 
+Act, 1996 & Central/State Law; 
+(iii) Constitution of India, 1950.” 
+(Emphasis supplied) 
+ 
+57. When an arbitration agreement is in violation of sub-section (5) of 
+Section 12 of the Act, 1996, the parties can neither insist on 
+appointment of an arbitrator in terms of the agreement nor would any 
+appointment so made be valid in the eyes of law.  
+ 
+58. Unilateral appointments are not consistent with the basic tenet of 
+arbitration, i.e., mutual confidence in the arbitrator. It would not be 
+unreasonable for a party to apprehend that an arbitrator unilaterally 
+appointed by the opposite party may not act with complete 
+impartiality.  
+ 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 34 of 72 
+ 
+ 
+ 
+ 
+59. The test to determine bias is not actual proof of bias but reasonable 
+apprehension of bias. The moment this apprehension takes birth in the 
+mind of a party, the trust in the arbitral proceedings dies. A 
+Constitution Bench of this Court in CORE II (supra), wherein one of 
+us, J. B. Pardiwala, J., was a part of the Bench, laid down the test for 
+real likelihood of bias. It reads thus:-  
+“(b) Real likelihood of bias 
+92. The nemo judex rule may be applicable where a Judge's 
+conduct or circumstances give rise to an apprehension of bias. 
+In such situations, the Judge does not have a financial or cause-
+based interest in the outcome of the dispute but provides benefit 
+to a party by failing to be neutral and impartial. The 
+determination of bias does not depend upon actual proof of bias 
+but whether there is a real possibility of bias based on the facts 
+and circumstances. 
+xxx 
+(iv) Indian approach to the bias test 
+103. This Court has consistently adopted the real likelihood test 
+to determine bias. [Rattan Lal Sharma v. Hari Ram (Co-
+Education) Higher Secondary School, (1993) 4 SCC 10, para 11 
+: 1993 SCC (L&S) 1106] In Manak Lal v. Prem Chand 
+Singhvi [Manak Lal v. Prem Chand Singhvi, 1957 SCC 
+OnLine SC 10, para 4] , P.B. Gajendragadkar, J. (as the learned 
+Chief Justice then was) observed that the test to determine bias 
+is whether a litigant could reasonably apprehend that a bias 
+attributable to a member of the tribunal might have operated 
+against him in the final decision. In S. Parthasarathi v. State of 
+A.P. [S. Parthasarathi v. State of A.P., (1974) 3 SCC 459, para 
+14 : 1973 SCC (Cri) 580 : 1973 SCC (L&S) 580] , K.K. Mathew, 
+J. observed that the test of likelihood of bias is based on the 
+reasonable apprehension of a reasonable man fully cognizant of 
+the facts. The learned Judge further observed that the question 
+of whether the real likelihood of bias exists is to be determined 
+on the probabilities to be inferred from the objective 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 35 of 72 
+ 
+ 
+ 
+ 
+circumstances by a court or based on impressions that might 
+reasonably be left on the minds of the aggrieved party or the 
+public at large. [S. Parthasarathi, (1974) 3 SCC 459, p. 465, 
+para 16. It was observed:“16. The tests of “real likelihood” and 
+“reasonable suspicion” are really inconsistent with each other. 
+We think that the reviewing authority must make a 
+determination on the basis of the whole evidence before it, 
+whether a reasonable man would in the circumstances infer that 
+there is real likelihood of bias.[…].” 
+(Emphasis supplied)  
+ 
+60. It is apposite to understand that Section 12(5) does not prohibit 
+unilateral appointment of an arbitrator. It provides that whenever an 
+appointment of an arbitrator is hit by the bar under Section 12(5), the  
+arbitrator would be ineligible to act, irrespective of whether the 
+appointment was unilateral or with consent of both parties. In such 
+circumstances, the parties may, in the manner provided under the 
+proviso, waive the ineligibility. We shall discuss the scope and 
+application of the proviso in more detail in the latter part of this 
+judgment.  
+d. De Jure inability of the arbitrator to perform his functions 
+61. In the aforesaid context, it would be apposite to briefly explain what 
+constitutes as de jure ineligibility under Section 12(5). The expression 
+de jure denotes a condition rooted in strict compliance with the 
+requirements of law. De jure inability refers to a situation in which an 
+arbitrator is legally incapable of performing his functions and is, by 
+operation of law, barred from continuing in office. Such inability 
+strikes at the very root of the arbitrator’s authority to act, thereby 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 36 of 72 
+ 
+ 
+ 
+ 
+affecting his inherent capacity to discharge his functions as an 
+arbitrator. It is this legal incapacity, arising from statutory 
+disqualifications, that results in the termination of the “mandate of an 
+arbitrator” under Section 14(1)(a) of the Act, 1996.  
+ 
+62. De jure inability referred to under Section 14(1)(a) may arise from the 
+provisions of the Act, 1996, or from any other existing law that renders 
+an arbitrator legally incapable of performing his functions. As regards 
+de jure ineligibility, it flows from sub-section (5) of Section 12 read with 
+the Seventh Schedule, which disqualifies certain persons from being 
+appointed or continuing as arbitrators.  
+ 
+63. In other words, the ineligibility under Section 12(5) precedes de jure 
+inability under Section 14(1)(a). In other words, de jure ineligibility is 
+the specie and de jure inability is the genus. To put this in context, de 
+jure inability is determined when an aggrieved party is able to indicate 
+that the circumstances under the Seventh Schedule have been met.  
+ 
+64. It would be worthwhile to refer to the observations made by this Court 
+in HRD Corpn v. GAIL (India) Ltd., reported in (2018) 12 SCC 471. It 
+was observed thus:- 
+“12. After the 2016 Amendment Act, a dichotomy is made by 
+the Act between persons who become “ineligible” to be 
+appointed as arbitrators, and persons about whom justifiable 
+doubts exist as to their independence or impartiality. Since 
+ineligibility goes to the root of the appointment, Section 12(5) 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 37 of 72 
+ 
+ 
+ 
+ 
+read with the Seventh Schedule makes it clear that if the 
+arbitrator falls in any one of the categories specified in the 
+Seventh Schedule, he becomes “ineligible” to act as arbitrator. 
+Once he becomes ineligible, it is clear that, under Section 
+14(1)(a), he then becomes de jure unable to perform his 
+functions inasmuch as, in law, he is regarded as 
+“ineligible”.[…]” 
+(Emphasis supplied) 
+ 
+65. The Madras High Court in Clarke Energy India Pvt. Ltd. v. SAS EPC 
+Solution Pvt. Ltd. & Anr., reported in 2021 SCC OnLine Mad 6121, 
+observed thus:-  
+“22. Turning to de jure inability to perform functions, it should 
+be noted at the threshold that the expression is not defined in the 
+Arbitration Act. The word ‘de jure’ in Latin means “as a matter 
+of law”. It has been defined in Black's Law Dictionary, 11 
+Edition (2019), as “existing by right or according to law”. 
+Thus, it appears that the expression de jure applies undoubtedly 
+to legal disability. One illustration of legal disability would be 
+if the arbitrator is ineligible in terms of the Seventh Schedule. 
+This was expressly dealt with by the Hon'ble Supreme Court 
+in HRD 
+Corporation as 
+well 
+as Bharat 
+Broadband.[…] 
+However, 
+ineligibility 
+is 
+only 
+one 
+illustration 
+of de 
+jure inability to function. It is conceivable that an arbitrator 
+may be afflicted by some form of cognitive impairment. If such 
+cognitive impairment is serious enough to lead to an inference 
+that such arbitrator is not of sound mind, whether on account 
+of schizophrenia, Alzheimer's disease or the like, as understood 
+in the Indian Contract Act, 1872, it would result in de 
+jure inability to function even if the arbitrator concerned 
+declines to withdraw. Less serious forms of cognitive 
+impairment, such as bipolar disorder and the like, may, on the 
+other hand, may pose greater challenges. Besides, an arbitrator 
+may be adjudged insolvent after entering upon reference. By 
+relying upon the applicable insolvency statute, it could be 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 38 of 72 
+ 
+ 
+ 
+ 
+contended with a fair measure of justification that he is de 
+jure unable to function.” 
+(Emphasis supplied) 
+ 
+66. It would be apposite to refer to the relevant Items under the head 
+“Arbitrator’s relationship with the parties or counsel” in the Seventh 
+Schedule of the Act, 1996, for the purpose of matter at hand. It reads 
+thus:-  
+“THE SEVENTH SCHEDULE 
+[See section 12(5)] 
+Arbitrator’s relationship with the parties or counsel  
+1. The arbitrator is an employee, consultant, advisor or has any 
+other past or present business relationship with a party.  
+2. The arbitrator currently represents or advises one of the 
+parties or an affiliate of one of the parties.  
+xxx 
+5. The arbitrator is a manager, director or part of the 
+management, or has a similar controlling influence, in an 
+affiliate of one of the parties if the affiliate is directly involved in 
+the matters in dispute in the arbitration.  
+xxx 
+12. The arbitrator is a manager, director or part of the 
+management, or has a similar controlling influence in one of the 
+parties.  
+13. The arbitrator has a significant financial interest in one of 
+the parties or the outcome of the case. […]” 
+ 
+67. From the above exposition of law, the Chairman of the respondent was 
+wholly ineligible to appoint an arbitrator. The Items 1, 2, 5, 12, and 13 
+of the Seventh Schedule respectively, clearly attach to the Chairman of 
+the respondent. Once the Chairman is rendered ineligible by operation 
+of law, he cannot nominate or appoint another person as an arbitrator. 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 39 of 72 
+ 
+ 
+ 
+ 
+To illustrate, one who cannot sit on a chair himself cannot authorise 
+another to sit on it either.  
+ 
+68. We are in complete agreement that the present case is squarely covered 
+by the decisions of this Court in Perkins Eastman (supra) and Bharat 
+Broadband (supra) respectively. The unilateral appointment of a sole 
+arbitrator is void ab initio, and the sole arbitrator so appointed is de jure 
+ineligible to act as an arbitrator in terms of Section 12(5) read with the 
+Seventh Schedule of the Act, 1996.  
+ 
+69. Thus, we have no hesitation in saying that its High Court, in the 
+impugned judgment, committed an error in holding that the 
+appointment was not unilateral merely because the respondent 
+proceeded to appoint the sole arbitrator pursuant to notice invoking 
+arbitration.  
+ 
+70. We would like to clarify that a notice under Section 21 of the Act, 1996, 
+is an expression to set the arbitration agreement into motion upon 
+arising of disputes between the parties. The section states that the date 
+of commencement of arbitration would be the date on which the 
+recipient receives the notice from the claimant that the dispute be 
+referred to arbitration. The notice acts as a communication that the 
+sender is aggrieved and seeks to invoke the arbitration agreement. It 
+does not, by itself, operate as consent to any appointment to be made 
+in the future.  
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 40 of 72 
+ 
+ 
+ 
+ 
+ 
+ii. Whether the parties could be said to have waived the 
+applicability of sub-section (5) of Section 12 of the Act, 1996, 
+by way of their conduct, either expressed or implied?  
+71. It was submitted on behalf of the appellants herein that the appellants 
+never waived their right to object in terms of the proviso to Section 12(5) 
+of the Act, 1996. The proviso to Section 12(5) requires that the 
+ineligibility of an arbitrator could only be waived by an “express 
+agreement in writing” between the parties, and such agreement must be 
+entered into after the dispute has arisen. It was further canvassed by 
+the appellants that no agreement was executed, signed, or even 
+contemplated by the parties to this effect after the dispute arose.  
+ 
+72. In this regard, the respondent vociferously submitted that the present 
+case falls within the proviso to Section 12(5). To indicate the same, 
+instances like recording of “no objection” in the first procedural order, 
+submission of statement of claim, the joint request to extend the 
+mandate under Section 29A, and continued participation in the 
+proceedings, were highlighted to submit that the appellants had 
+waived their right to object. The procedural order constitutes an 
+“express agreement in writing” and satisfies the requirement under the 
+proviso to Section 12(5) of the Act, 1996. At the cost of repetition, the 
+procedural order reads thus:- 
+“PROCEDURAL ORDER NO. 1 
+With 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 41 of 72 
+ 
+ 
+ 
+ 
+Minutes of, and the Directions made at, the hearing on 
+22.03.2016 at 1:00 pm 
+[AT D-247 (Basement), Defence Colony, New Delhi-110024] 
+This preliminary meeting of the Tribunal was held D-247 
+(Basement), Defence Colony, New Delhi-110024 on 22nd 
+March, 2016 at 1:00 PM. None of the parties have any objection 
+to my appointment as the Sole Arbitrator. I declare that I have 
+no interest in any of the Parties, or in the disputes referred to 
+the Sole Arbitrator.[…]”  
+(Emphasis supplied) 
+ 
+73. On the aforesaid issue, the High Court, in its impugned judgment, 
+observed that the sole arbitrator obtained the consent of the parties for 
+the purpose of continuing to arbitrate in the form of the procedural 
+order. What weighed with the High Court was that the appellants 
+participated in the proceedings, which continued for over two years, 
+and did not they invoke Section 12(5), or object against the jurisdiction 
+of the arbitrator at any stage.  
+a. Meaning and Import of the expression “express agreement in 
+writing” used in proviso to sub-section (5) of Section 12 of the 
+Act, 1996   
+74. Sub-section (5) of Section 12 of the Act, 1996, reads thus:- 
+“[(5) Notwithstanding any prior agreement to the contrary, any 
+person whose relationship, with the parties or counsel or the 
+subject-matter of the dispute, falls under any of the categories 
+specified in the Seventh Schedule shall be ineligible to be 
+appointed as an arbitrator:  
+ 
+Provided that parties may, subsequent to disputes having 
+arisen between them, waive the applicability of this sub-section 
+by an express agreement in writing.]”  
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 42 of 72 
+ 
+ 
+ 
+ 
+ 
+75. The essentials of the proviso to Section 12(5) are:- 
+i. The parties can waive their right to object under sub-section (5) 
+of Section 12;  
+ii. The right to object under the sub-section can be waived only 
+subsequent to a dispute having arisen between the parties;  
+iii. The waiver must be in the form of an express agreement in 
+writing.  
+ 
+76. The proviso to sub-section (5) of Section 12 stipulates that parties, after 
+disputes have arisen, must expressly agree in writing to waive the 
+ineligibility of the proposed arbitrator. This impliedly means that the 
+parties are waiving their right to object to the arbitrator’s ineligibility 
+in terms of Section 12(5) of the Act, 1996.  
+ 
+77. Waiver means the intentional giving up of a right. It involves a 
+conscious decision to abandon an existing legal right, benefit, claim, or 
+privilege that a party would otherwise have been entitled to. It 
+amounts to an agreement not to enforce that right. A waiver can occur 
+only when the person making it is fully aware of the right in question 
+and, with complete knowledge, chooses to give it up. [See: State of 
+Punjab v. Davinder Pal Singh Bhullar, (2011) 14 SCC 770] 
+ 
+78. What flows from the aforesaid is when a right exists, i.e., the right to 
+object to the appointment of an ineligible arbitrator in terms of Section 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 43 of 72 
+ 
+ 
+ 
+ 
+12(5), such a right cannot be taken away by mere implication. For a 
+party to be deprived of this right by way of waiver, there must be a 
+conscious and unequivocal expression of intent to relinquish it. 
+Needless to say, for a waiver to be valid, it is necessary that the actor 
+demonstrates the intention to act, and for an act to be intentional, the 
+actor must understand the act and its consequences. 
+ 
+79. The expression “express agreement in writing” demonstrates a deliberate 
+and informed act that although a party is fully aware of the arbitrator’s 
+ineligibility, yet it chooses to forego the right to object against the 
+appointment of such an arbitrator. The requirement of an express 
+agreement in writing has been introduced as it reflects awareness and 
+a conscious intention to waive the right to object under sub-section (5) 
+of Section 12. A clear manifestation of the expression of waiver 
+assumes greater importance in light of the fact that the parties are 
+overcoming a restriction imposed by law.  
+ 
+80. It is in the same breath we say that appointment of an arbitrator with 
+the consent of both parties is the general rule, while unilateral 
+appointment is an exception. When one party appoints an arbitrator 
+unilaterally, even if its own consent is implicit, the consent of the 
+opposite party stands compromised, and the choice of the former is 
+effectively imposed upon the latter.  
+ 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 44 of 72 
+ 
+ 
+ 
+ 
+81. It is only through an express agreement in writing, waiving the bar 
+under sub-section (5) of Section 12, that the other party can be said to 
+have voluntarily consented to the unilateral appointment of such an 
+arbitrator. The proviso conveys that the arbitrator, although ineligible 
+to be appointed, yet can continue to perform his functions, as it is 
+oriented towards facilitating party autonomy. Thus, the proviso 
+reinforces party autonomy and equal treatment of parties in 
+arbitration.  
+ 
+82. In other words, even though the appointment had been made by one 
+of the parties, by the act of entering into an agreement in writing, the 
+other party expresses its consent. The manner of the agreement 
+prescribed by the statute demonstrates voluntariness by the parties.  
+ 
+83. In a case of unilateral appointment, the waiver mentioned in the 
+proviso is an indication of party autonomy in two ways: first, that the 
+parties, by entering into an agreement, are waiving the bar under 
+Section 12(5). Secondly, by the act of entering into an agreement, the 
+parties, more particularly, the non-consenting party, are expressing 
+their consent for appointment of the proposed arbitrator.   
+ 
+84. Undoubtedly, the statute does not prescribe a format for the 
+agreement. However, the absence of a prescribed format cannot be 
+construed to mean that the waiver may be inferred impliedly or 
+through conduct. We say so because the legislature has consciously 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 45 of 72 
+ 
+ 
+ 
+ 
+prefaced the term “agreement” with the word “express” and followed it 
+with the phrase “in writing”. This semantics denote the intention of the 
+legislature that the waiver under the proviso to Section 12(5) must be 
+made only through an express and written manifestation of intention.  
+ 
+85. The conscious use of the prefatory expression also serves to 
+differentiate such waiver from ‘deemed waiver’ as stipulated under 
+Section 4 of the Act, 1996. We must be mindful of the fact that if the 
+legislature intended that waiver under Section 12(5) could similarly 
+arise by implication or conduct as mentioned under Section 4, it would 
+have refrained from introducing a heightened and mandatory 
+requirement, more particularly, in light of the rigours of the Seventh 
+Schedule. The statutory design therefore makes it evident that the bar 
+under Section 12(5) can be removed only by a clear, unequivocal, and 
+written agreement executed after the dispute has arisen, and not by 
+any form of tacit acceptance or procedural participation.   
+ 
+86. The mandate of an express agreement in writing in the present case 
+may looked at from one another angle. The unilateral appointment of 
+an arbitrator is assessed from the viewpoint of the parties. However, 
+when the parties later execute an express written agreement waiving 
+the ineligibility of the proposed arbitrator, the position gets altered. 
+Such written waiver supplies the very consent that was previously 
+missing, thereby placing the appointment on the same footing as a 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 46 of 72 
+ 
+ 
+ 
+ 
+mutually agreed appointment and addresses concerns regarding 
+neutrality and fairness.  
+ 
+87. In Bharat Broadband (supra), this Court categorically held that the 
+expression “express agreement in writing” refers to an agreement made 
+in words and cannot be inferred by conduct. The word “express” 
+denotes that the agreement must be entered into with complete 
+knowledge that although the proposed arbitrator is ineligible to be 
+appointed as an arbitrator, yet they express their confidence in him to 
+continue as the arbitrator. The relevant observations read thus:-  
+“20. This then brings us to the applicability of the proviso to 
+Section 12(5) on the facts of this case. Unlike Section 4 of the 
+Act which deals with deemed waiver of the right to object by 
+conduct, the proviso to Section 12(5) will only apply if 
+subsequent to disputes having arisen between the parties, the 
+parties waive the applicability of sub-section (5) of Section 12 
+by an express agreement in writing. For this reason, the 
+argument based on the analogy of Section 7 of the Act must also 
+be rejected. Section 7 deals with arbitration agreements that 
+must be in writing, and then explains that such agreements may 
+be contained in documents which provide a record of such 
+agreements. On the other hand, Section 12(5) refers to an 
+“express agreement in writing”. The expression “express 
+agreement in writing” refers to an agreement made in words as 
+opposed to an agreement which is to be inferred by conduct. 
+Here, Section 9 of the Contract Act, 1872 becomes important. It 
+states: 
+“9. Promises, express and implied.—Insofar as the proposal 
+or acceptance of any promise is made in words, the promise 
+is said to be express. Insofar as such proposal or acceptance 
+is made otherwise than in words, the promise is said to be 
+implied.” 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 47 of 72 
+ 
+ 
+ 
+ 
+It is thus necessary that there be an “express” agreement in 
+writing. This agreement must be an agreement by which both 
+parties, with full knowledge of the fact that Shri Khan is 
+ineligible to be appointed as an arbitrator, still go ahead and say 
+that they have full faith and confidence in him to continue as 
+such. The facts of the present case disclose no such express 
+agreement. The appointment letter which is relied upon by the 
+High Court as indicating an express agreement on the facts of 
+the case is dated 17-1-2017. On this date, the Managing 
+Director of the appellant was certainly not aware that Shri Khan 
+could not be appointed by him as Section 12(5) read with the 
+Seventh Schedule only went to the invalidity of the appointment 
+of the Managing Director himself as an arbitrator. Shri Khan's 
+invalid appointment only became clear after the declaration of 
+the law by the Supreme Court in TRF Ltd. [TRF Ltd. v. Energo 
+Engg. Projects Ltd., (2017) 8 SCC 377 : (2017) 4 SCC (Civ) 72] 
+which, as we have seen hereinabove, was only on 3-7-2017. 
+After this date, far from there being an express agreement 
+between the parties as to the validity of Shri Khan's 
+appointment, the appellant filed an application on 7-10-2017 
+before the sole arbitrator, bringing the arbitrator's attention to 
+the judgment in TRF Ltd. [TRF Ltd. v. Energo Engg. Projects 
+Ltd., (2017) 8 SCC 377 : (2017) 4 SCC (Civ) 72] and asking 
+him to declare that he has become de jure incapable of acting as 
+an arbitrator. Equally, the fact that a statement of claim may 
+have been filed before the arbitrator, would not mean that there 
+is an express agreement in words which would make it clear that 
+both parties wish Shri Khan to continue as arbitrator despite 
+being ineligible to act as such. This being the case, the impugned 
+judgment is not correct when it applies Section 4, Section 7, 
+Section 12(4), Section 13(2) and Section 16(2) of the Act to the 
+facts of the present case, and goes on to state that the appellant 
+cannot be allowed to raise the issue of eligibility of an arbitrator, 
+having itself appointed the arbitrator. The judgment under 
+appeal is also incorrect in stating that there is an express waiver 
+in writing from the fact that an appointment letter has been 
+issued by the appellant, and a statement of claim has been filed 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 48 of 72 
+ 
+ 
+ 
+ 
+by the respondent before the arbitrator. The moment the 
+appellant came to know that Shri Khan's appointment itself 
+would be invalid, it filed an application before the sole arbitrator 
+for termination of his mandate.” 
+(Emphasis supplied) 
+ 
+88. In CORE II (supra), this Court underscored the rationale behind the 
+first two essentials of the proviso. It reads thus:-   
+“121. An objection to the bias of an adjudicator can be waived. 
+[Supreme Court Advocates-on-Record Assn. v. Union of India, 
+(2016) 5 SCC 808, para 30 : (2016) 3 SCC (Civ) 492 : (2016) 3 
+SCC (Cri) 173 : (2016) 2 SCC (L&S) 253] A waiver is an 
+intentional relinquishment of a right by a party or an agreement 
+not to assert a right. [State of Punjab v. Davinder Pal Singh 
+Bhullar, (2011) 14 SCC 770, para 41 : (2012) 4 SCC (Civ) 1034 
+: (2012) 4 SCC (Cri) 496 : (2014) 1 SCC (L&S) 208] The 
+Arbitration Act allows parties to waive the application of 
+Section 12(5) by an express agreement after the disputes have 
+arisen. However, the waiver is subject to two factors. First, the 
+parties can only waive the applicability of Section 12(5) after the 
+dispute has arisen. This allows parties to determine whether 
+they will be required or necessitated to draw upon the services 
+of specific individuals as arbitrators to decide upon specific 
+issues. To this effect, Explanation 3 to the Seventh Schedule 
+recognises that certain kinds of arbitration such as maritime or 
+commodities arbitration may require the parties to draw upon a 
+small, specialised pool. [ “Explanation 3.—For the removal of 
+doubts, it is clarified that it may be the practice in certain 
+specific kinds of arbitration, such as maritime or commodities 
+arbitration, to draw arbitrators from a small, specialised pool. If 
+in such fields it is the custom and practice for parties frequently, 
+to appoint the same arbitrator in different cases, this is a 
+relevant fact to be taken into account while applying the rules 
+set out above.”] The second requirement of the proviso to 
+Section 12(5) is that parties must consciously abandon their 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 49 of 72 
+ 
+ 
+ 
+ 
+existing legal right through an express agreement. Thus, the 
+Arbitration Act reinforces the autonomy of parties by allowing 
+them to override the limitations of independence and 
+impartiality by an express agreement in that regard.” 
+ 
+(Emphasis supplied) 
+ 
+89. What can be discerned from the above discussion is that the 
+ineligibility of an arbitrator can be waived only by an express 
+agreement in writing. In the present case, there is no agreement in 
+writing, after the disputes arose, waiving the ineligibility of the sole 
+arbitrator or the right to object under Section 12(5) of the Act, 1996.  
+ 
+90. The conduct of the parties is inconsequential and does not constitute a 
+valid waiver under the proviso. The requirement of the waiver to be 
+made expressly in the form of agreement in writing ensures that 
+parties are not divested of their right to object inadvertently or by 
+procedural happenstance.  
+ 
+91. We are not impressed by the aforesaid submission of the respondent 
+for all the reasons stated above. The following decisions of this Court 
+and the High Court of Delhi respectively deal with the all the factual 
+submissions made by the respondent to submit that the present case 
+falls within the proviso to Section 12(5) of the Act, 1996.  
+b.  “Statement of Claim” as a parameter of waiver  
+92. One another submission that was canvassed on behalf of the 
+respondent herein is that the appellants participated in the arbitral 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 50 of 72 
+ 
+ 
+ 
+ 
+proceedings by submitting their statement of claim wherein it was 
+stated that they submit to the jurisdiction of the arbitrator. The 
+observations of this Court in paragraph 20 of Bharat Broadband 
+(supra) squarely cover this issue. It was held that filing a statement of 
+claim cannot be equated to an “express agreement in writing” in terms of 
+proviso to Section 12(5). 
+c. “Extension of Time” under Section 29A of the Act, 1996 as a 
+parameter of waiver  
+93. Recently, in Hindustan Construction Co. Ltd. v. Bihar Rajya Pul 
+Nirman Nigam Ltd., reported in 2025 SCC OnLine SC 2578, wherein 
+one of us, J. B. Pardiwala, J., was a part of the Bench, held that Section 
+29A amounts to a valid waiver under Section 4, save in cases of 
+statutory ineligibility under Section 12(5) of the Act, 1996. The relevant 
+observations read thus:- 
+“13.8. In the present case, the respondents had ample 
+opportunity to object. Instead, both parties jointly moved for 
+extension under Section 29A, not once but thrice. This leads 
+directly to the interplay between Sections 4, 12(5) and 29A. 
+ 
+13.9. Section 29A empowers courts to extend the mandate of an 
+arbitral tribunal, either on a party's application or upon 
+sufficient cause. Its object is to prevent termination of 
+proceedings by efflux of time and to ensure continuity. A joint 
+application under Section 29A stands on a distinct footing from 
+ordinary acts of participation such as filing pleadings. When 
+both parties jointly seek an extension, they signify continued 
+consent and confidence in the tribunal. Under Section 29A(5), 
+even a single party may apply; the other is free to oppose. The 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 51 of 72 
+ 
+ 
+ 
+ 
+Court may, in its discretion, extend the mandate with or 
+without substituting the arbitrator. 
+ 
+13.10. Thus, when a party joins in seeking extension under 
+Section 29A despite having the opportunity to object or seek 
+termination, it signifies a higher degree of consent. However, 
+such consent cannot be equated with an express written waiver 
+under Section 12(5). The statutory language is categorical: only 
+an express written post-dispute waiver can cure Seventh 
+Schedule ineligibility.” 
+ 
+(Emphasis supplied) 
+ 
+94. In Man Industries (India) Ltd. v. Indian Oil Corporation Ltd., 
+reported in 2023 SCC OnLine Del 3537, the petitioner had filed two 
+applications under Section 29A of the Act, 1996, seeking an extension 
+of time for completion of the arbitral proceedings. The respondent 
+therein had contended that filing of an application under Section 29A 
+would satisfy the requirement of the proviso to Section 12(5), and that 
+the ineligibility attached to the sole arbitrator would thereby stand 
+removed. The Court observed thus:- 
+“11. He submits that in the present case, the petitioner has 
+never challenged the eligibility of the learned Sole Arbitrator to 
+adjudicate on the disputes between the parties. He submits that, 
+in fact, the learned Arbitrator was appointed at the request of 
+the petitioner. The learned Arbitrator before entering upon the 
+reference submitted his disclosure as required under Section 12 
+of the Act. The petitioner never raised any objection to the 
+eligibility of the learned Sole Arbitrator. Thereafter, the 
+petitioner, in fact, twice filed applications under Section 29A of 
+the Act seeking extension of the mandate of the learned 
+Arbitrator. He submits that the filing of the application under 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 52 of 72 
+ 
+ 
+ 
+ 
+Section 29A of the Act by the petitioner would, in fact, satisfy 
+the Proviso to Section 12(5) of the Act and the ineligibility, if at 
+all, attached to the learned Sole Arbitrator would be waived. 
+xxx 
+22. In view of the above authorities, there can be no doubt that 
+the learned Arbitrator appointed by the respondent was de 
+jure ineligible to act as such. The petitioner by its participation 
+in the arbitration proceedings or by its filing of applications 
+under Section 29A of the Act seeking extension of the mandate 
+of the learned Arbitrator, cannot be said to have waived the 
+ineligibility of the learned Arbitrator under Section 12(5) of the 
+Act, and, therefore, the Arbitral Award passed by the learned 
+Arbitrator is invalid.” 
+(Emphasis supplied) 
+ 
+d. “Continued Participation” as a parameter of waiver   
+95. In Govind Singh v. Satya Group Pvt. Ltd., reported in 2023 SCC 
+OnLine Del 37, the contention before the Delhi High Court was that 
+the appellant therein by its conduct had waived its right to object to 
+the unilateral appointment of the sole arbitrator. The Court 
+categorically held that it is not necessary to even examine whether the 
+appellant had raised an objection. Even if the appellant had 
+participated in the proceedings without raising any objection, it cannot 
+be said that he had waived his right under Section 12(5) of the Act, 
+1996. The relevant observations read thus:- 
+“19. The contention that the appellant by its conduct has 
+waived its right to object to the appointment of the learned 
+Arbitrator is also without merit. The question whether a party 
+can, by its conduct, waive its right under Section 12(5) of 
+the A&C Act is no longer res integra. The Supreme Court in 
+the case of Bharat Broadband Network Limited v. United 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 53 of 72 
+ 
+ 
+ 
+ 
+Telecoms Limited : (2019) 5 SCC 755 had explained that any 
+waiver under Section 12(5) of the A&C Act would be valid only 
+if it is by an express agreement in writing. There is no scope for 
+imputing 
+any 
+implied 
+waiver 
+of 
+the 
+rights 
+under 
+Section 12(5) of the A&C Act by conduct or otherwise.[…] 
+ 
+20. Thus, it is not necessary to examine the question whether 
+the appellant had raised an objection to the appointment of the 
+learned Arbitrator. Even if it is assumed that the appellant had 
+participated in the arbitral proceedings without raising any 
+objection to the appointment of the learned Arbitrator, it is not 
+open to hold that he had waived his right under Section 12(5) of 
+the A&C Act. Although it is not material, the record does 
+indicate that the appellant had objected to the appointment of 
+respondent no. 2 as an arbitrator.” 
+(Emphasis supplied) 
+ 
+96. The net effect of the aforesaid is that a notice invoking the arbitration 
+clause under Section 21 of the Act, 1996, a procedural order, 
+submission of statement of claim by the appellants, the filing an 
+application seeking interim relief, or a reply to an application under 
+Section 33 of the Act, 1996, cannot be countenanced to mean “an express 
+agreement in writing” within the meaning of the proviso to sub-section 
+(5) of Section 12 of the Act, 1996.  
+ 
+97. One could argue that a miscreant party may participate in the arbitral 
+proceedings up to the passing of the award, despite having full 
+knowledge of the arbitrator’s ineligibility. While after an adverse 
+award is rendered, such a party may then seek to challenge it with a 
+view to having it set aside. Such an apprehension is reasonable, 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 54 of 72 
+ 
+ 
+ 
+ 
+however, to obviate the possibility of such misuse, the party making 
+unilateral appointment must endeavour to enter into an express 
+written agreement as stipulated in the proviso to Section 12(5), so as to 
+safeguard the proceedings from being rendered futile.  
+ 
+98. Thus, all the High Court decisions taking a contrary view to the 
+present judgment would stand overruled.  
+iii. Whether the appellants could have raised an objection to the 
+appointment of the sole arbitrator for the first time in an 
+application under Section 34 of the Act, 1996?  
+99. It was submitted by the appellants that an objection in relation to de 
+jure ineligibility of the sole arbitrator could be raised at any stage, 
+including for the first time in proceedings under Section 34 of the Act, 
+1996. In this regard reliance was placed on Section 34(2)(b) which 
+empowers the court to set aside an award if “the Court finds that” it is 
+in conflict with the public policy of India. Therefore, even if the 
+objection to unilateral appointment is not raised by a party, the Court 
+may itself declare an award to be null and void due to unilateral 
+appointment of the arbitrator in terms of Section 34(2)(b).  
+ 
+100. On the contrary, the respondent submitted that since the appellants 
+did not raise any objection to the constitution, appointment or 
+jurisdiction of the sole arbitrator under Sections 13 or 14 of the Act, 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 55 of 72 
+ 
+ 
+ 
+ 
+1996, respectively, during the pendency of the arbitration, they are 
+barred from raising it under an application under Section 34.   
+ 
+101. On the aforesaid issue, the High Court held that the present case 
+cannot be equated with cases in which an objection to the appointment 
+of the arbitrator has been raised throughout the proceedings, or at 
+every stage. Further, even after sub-section (5) of Section 12 was 
+introduced in the statute, the appellants did not approach the court 
+under Section 14 of the Act, 1996, challenging the jurisdiction of the 
+arbitrator. Thus, the challenge to the appointment of the sole arbitrator 
+was clearly an “afterthought”.  
+a. Challenge to the ineligibility of the arbitrator during the 
+proceedings  
+102. The law in this regard is fairly settled. Where a party is aggrieved by 
+the ineligibility of an arbitrator under Section 12(5), it may directly 
+approach the court under Section 14 of the Act, 1996. There is no doubt 
+that when an arbitrator is ineligible under Section 12(5), i.e., he lacks 
+inherent jurisdiction to hold the position, his mandate stands 
+automatically terminated, and it is not necessary for the parties to 
+challenge his appointment under Section 12 read with Section 13. 
+When such a challenge is made, the court is required to determine 
+whether the arbitrator suffers from de jure inability under Section 
+14(1)(a) of the Act, 1996. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 56 of 72 
+ 
+ 
+ 
+ 
+103. An application under Section 14 is made for the purpose of terminating 
+the mandate of the arbitrator, and, consequently, a substitute arbitrator 
+is appointed in terms of Section 15(2). As regards where the mandate 
+of the arbitrator has been terminated with the consent of both the 
+parties under Section 15(1)(b), it is not required for the parties to 
+approach the court to seek termination of the mandate of the arbitrator, 
+because it has been terminated by the parties themselves.  
+ 
+104. It is apposite to understand that in a case of ineligibility of the 
+arbitrator, the substitution of the arbitrator is sought because the 
+termination of mandate of the arbitrator does not result in the 
+termination of arbitral proceedings. The proceedings remain intact, 
+only the composition of the arbitral tribunal changes. The termination 
+of mandate of the arbitrator is distinguishable from the termination of 
+the arbitral proceedings and of the arbitral tribunal as well. By 
+substitution of the arbitrator, the proceedings would commence from 
+thereon and save the parties from initiating fresh proceedings.   
+ 
+105. In HRD (supra), it was held that once an arbitrator becomes ineligible 
+to act as an arbitrator, he is rendered de jure incapable of performing 
+his functions. In such circumstances, it is not necessary for the parties 
+to approach the arbitral tribunal under Section 13, for an arbitrator 
+who is de jure ineligible lacks the inherent jurisdiction to proceed any 
+further. In such a case, an application under Section 14(2) must be filed 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 57 of 72 
+ 
+ 
+ 
+ 
+before the court for termination of the mandate of the arbitrator. The 
+relevant observations read thus:-  
+“12. […] Once he becomes ineligible, it is clear that, under 
+Section 14(1)(a), he then becomes de jure unable to perform his 
+functions inasmuch as, in law, he is regarded as “ineligible”. In 
+order to determine whether an arbitrator is de jure unable to 
+perform his functions, it is not necessary to go to the Arbitral 
+Tribunal under Section 13. Since such a person would lack 
+inherent jurisdiction to proceed any further, an application may 
+be filed under Section 14(2) to the Court to decide on the 
+termination of his/her mandate on this ground. As opposed to 
+this, in a challenge where grounds stated in the Fifth Schedule 
+are disclosed, which give rise to justifiable doubts as to the 
+arbitrator's independence or impartiality, such doubts as to 
+independence or impartiality have to be determined as a matter 
+of fact in the facts of the particular challenge by the Arbitral 
+Tribunal under Section 13. If a challenge is not successful, and 
+the Arbitral Tribunal decides that there are no justifiable doubts 
+as 
+to 
+the 
+independence 
+or 
+impartiality 
+of 
+the 
+arbitrator/arbitrators, the Tribunal must then continue the 
+arbitral proceedings under Section 13(4) and make an award. It 
+is only after such award is made, that the party challenging the 
+arbitrator's appointment on grounds contained in the Fifth 
+Schedule may make an application for setting aside the arbitral 
+award in accordance with Section 34 on the aforesaid 
+grounds.[…].” 
+(Emphasis supplied) 
+ 
+106. We may refer with profit to the decision of this Court in Bharat 
+Broadband (supra), wherein it was observed that when a person 
+becomes “ineligible” to be appointed as an arbitrator, the challenge to 
+such appointment does not lie before the arbitrator himself. It was 
+further observed that an appointment hit by Section 12(5) attracts 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 58 of 72 
+ 
+ 
+ 
+ 
+Section 14(1)(a), as the arbitrator becomes de jure unable to perform his 
+functions. As a result, the mandate of the arbitrator stands terminated. 
+The relevant observations read thus:-  
+“17. […] However, where such person becomes “ineligible” to 
+be appointed as an arbitrator, there is no question of challenge 
+to such arbitrator, before such arbitrator. In such a case i.e. a 
+case which falls under Section 12(5), Section 14(1)(a) of the Act 
+gets attracted inasmuch as the arbitrator becomes, as a matter 
+of law (i.e. de jure), unable to perform his functions under 
+Section 12(5), being ineligible to be appointed as an arbitrator. 
+This being so, his mandate automatically terminates, and he 
+shall then be substituted by another arbitrator under Section 
+14(1) itself. It is only if a controversy occurs concerning 
+whether he has become de jure unable to perform his functions 
+as such, that a party has to apply to the Court to decide on the 
+termination of the mandate, unless otherwise agreed by the 
+parties. Thus, in all Section 12(5) cases, there is no challenge 
+procedure to be availed of. If an arbitrator continues as such, 
+being de jure unable to perform his functions, as he falls within 
+any of the categories mentioned in Section 12(5), read with the 
+Seventh Schedule, a party may apply to the Court, which will 
+then decide on whether his mandate has terminated. Questions 
+which may typically arise under Section 14 may be as to 
+whether such person falls within any of the categories 
+mentioned in the Seventh Schedule, or whether there is a waiver 
+as provided in the proviso to Section 12(5) of the Act.[…].” 
+ 
+(Emphasis supplied) 
+ 
+107. In Chennai Metro Rail Ltd. v. Transtonnelstroy Afcons (JV), reported 
+in (2024) 6 SCC 211, this Court held that a party aggrieved by the 
+ineligibility of an arbitrator may approach the court under Section 
+14(1)(a) of the Act, 1996. The relevant observations read thus:-  
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 59 of 72 
+ 
+ 
+ 
+ 
+“29. At this stage it would be crucial to notice that the Court 
+made a differentiation. It stated, firstly, that a disclosure in 
+writing about circumstances likely to give justifiable doubts is 
+to be made, at the stage of appointment, and then stated that the 
+disclosure can be challenged under Sections 12(1) to 12(4) read 
+with Section 13. The Court however underlined that in the next 
+category where the person became ineligible to be appointed as 
+arbitrator, there was no need for a challenge to be laid before the 
+arbitrator. In such circumstances outlined in Section 12(5), the 
+party aggrieved could directly approach the court under Section 
+14(1)(a). It was further underlined that in all cases under 
+Section 12(5), there is no challenge procedure to be availed of 
+and that if the arbitrator continues at such, the ground of being 
+unable to perform his function since he falls in any of the 
+categories enumerated in the Seventh Schedule, the party 
+concerned may apply to the court. 
+xxx 
+33. The decisions in HRD [HRD Corpn. v. GAIL, (2018) 12 
+SCC 471 : (2018) 5 SCC (Civ) 401] and Bharat 
+Broadband [Bharat 
+Broadband 
+Network 
+Ltd. v. United 
+Telecoms Ltd., (2019) 5 SCC 755 : (2019) 3 SCC (Civ) 1] are 
+unequivocal and to the effect that the issue of bias should be 
+raised before the same Tribunal at the earliest opportunity. The 
+advertence of the time-limit of 15 days is nothing but a statutory 
+incorporation of that idea. However, when the grounds 
+enumerated in the Seventh Schedule occur or are brought to the 
+notice of one party unless such party expressly waives its 
+objections, it is ipso facto sufficient for that party, to say that the 
+Tribunal's mandate is automatically terminated. The party 
+aggrieved then can go ahead and challenge the Tribunal's 
+continuation with the proceedings under Section 14.” 
+ 
+(Emphasis supplied) 
+ 
+108. The Constitution Bench in CORE II (supra) affirmed the 
+aforementioned decisions and reiterated that the ineligibility of a 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 60 of 72 
+ 
+ 
+ 
+ 
+person to act as an arbitrator is a matter of law and goes to the root of 
+the appointment. Thus, when an arbitrator is de jure unable to perform 
+his function, his mandate would be automatically terminated under 
+Section 14(1)(a), and the parties would be within their rights to apply 
+to the court under Section 14(2) for termination of the arbitrator’s 
+mandate and appointment of a substituted arbitrator.  
+b. Challenge to the ineligibility of the arbitrator after arbitral 
+award has been passed  
+109. When an award has been passed, the proceedings before the arbitral 
+tribunal conclude, leaving no possibility of substituting the arbitrator 
+at this stage. In other words, once an award is passed, the mandate of 
+the arbitral tribunal also arrives at a conclusion. In such circumstances, 
+a party aggrieved by the arbitrator’s ineligibility may challenge the 
+award by filing an application under Section 34 of the 1996 Act, as an 
+award passed by an ineligible arbitrator is nullity, non-est, or void ab 
+initio, and against the public policy of India.  
+ 
+110. Even where an interim award has been passed, it is liable to be set 
+aside, as it is not capable of being enforced. The fate of an interim 
+award and that of an arbitral award, in this regard, is identical. In 
+either circumstance, the parties would be required to initiate fresh 
+arbitration proceedings as per law. In Alpro Industries v. Ambience (P) 
+Ltd., reported in 2025 SCC OnLine Del 8373, the petitioner assailed an 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 61 of 72 
+ 
+ 
+ 
+ 
+interim award under Section 34 on the primary ground of unilateral 
+appointment. The Court observed thus:- 
+“41.⁠ ⁠In light of the findings in Mahavir Prasad (supra) and my 
+findings that the unilateral appointment of the Sole Arbitrator 
+in the present case is invalid and there has been no express 
+waiver in writing in terms of the proviso to clause 12(5) of the 
+Act, the Impugned Interim Award is liable to be set aside. 
+Consequently, the issue raised by the respondents as to whether 
+the Impugned Interim Award constitutes an ‘interim award’ or 
+not would not be relevant. The Court cannot permit 
+continuation of arbitral proceedings before an Arbitral Tribunal 
+which would be a nullity and cannot result into an enforceable 
+award. Hence, I do not deem it necessary to go into the merits 
+of the challenge to the Impugned Interim Award.” 
+ 
+(Emphasis supplied) 
+ 
+111. An award passed by an arbitrator who is found to be ineligible cannot 
+be enforced. In CORE II (supra), a Constitution Bench of this Court 
+held that the concept of “public policy of India” and “fundamental policy 
+of Indian law” means complying with statues and judicial precedents, 
+and principles of natural justice. It was categorically held that “the most 
+basic notions of morality and justice” mentioned in the Explanation 1 to 
+Section 34(b) includes bias. The observations of this Court in 
+paragraphs 163 and 164 respectively reproduced hereinbelow 
+squarely apply to the facts of the present case. The relevant extract has 
+been reproduced thus:- 
+“158. Section 34(2)(b) specifically provides that an arbitral 
+award may be set aside if the court finds that the arbitral award 
+conflicts with the public policy of India. The provision further 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 62 of 72 
+ 
+ 
+ 
+ 
+clarifies “public policy of India” to only mean that : (i) the 
+making of the award was induced or affected by fraud or 
+corruption or was in violation of Section 75 or Section 81; (ii) it 
+is in contravention with the fundamental policy of Indian law; 
+or (iii) it is in conflict with the most basic notions of morality or 
+justice. 
+  
+159. This Court has construed the expression “public policy of 
+India” appearing under Section 34 to mean the “fundamental 
+policy of Indian law”. [Ssangyong Engg. & Construction Co. 
+Ltd. v. NHAI, (2019) 15 SCC 131, para 34 : (2020) 2 SCC (Civ) 
+213; NHAI v. P. Nagaraju, (2022) 15 SCC 1 : (2024) 2 SCC 
+(Civ) 414, para 39] The concept of “fundamental policy of 
+Indian law” has been held to cover compliance with statutes and 
+judicial precedents, adopting a judicial approach, and 
+compliance with the principles of natural justice. [MMTC Ltd. 
+v. Vedanta Ltd., (2019) 4 SCC 163, para 11 : (2019) 2 SCC 
+(Civ) 293] In OPG Power Generation (India) (P) Ltd. v. Enexio 
+Power Cooling Solutions (India) (P) Ltd. [OPG Power 
+Generation (India) (P) Ltd. v. Enexio Power Cooling Solutions 
+(India) (P) Ltd., (2025) 2 SCC 417 : (2025) 1 SCC (Civ) 54] , 
+this Court explained the concept of “fundamental policy of 
+Indian law” thus : (SCC pp. 467-68, paras 55-56) 
+“55. … The expression “in contravention with the 
+fundamental policy of Indian law” by use of the word 
+“fundamental” before the phrase “policy of Indian law” 
+makes the expression narrower in its application than the 
+phrase “in contravention with the policy of Indian law”, 
+which means mere contravention of law is not enough to 
+make an award vulnerable. To bring the contravention 
+within the fold of fundamental policy of Indian law, the 
+award must contravene all or any of such fundamental 
+principles that provide a basis for administration of justice 
+and enforcement of law in this country. 
+56. Without intending to exhaustively enumerate instances 
+of such contravention, by way of illustration, it could be said 
+that 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 63 of 72 
+ 
+ 
+ 
+ 
+(a) violation of the principles of natural justice; 
+(b) disregarding orders of superior courts in India or the 
+binding effect of the judgment of a superior court; and 
+(c) violating law of India linked to public good or public 
+interest, are considered contravention of the fundamental 
+policy of Indian law.” 
+ 
+160. In Avitel Post Studioz Ltd. v. HSBC PI Holdings 
+(Mauritius) Ltd. [Avitel Post Studioz Ltd. v. HSBC PI 
+Holdings (Mauritius) Ltd., (2024) 7 SCC 197, para 34 : (2024) 
+3 SCC (Civ) 780] , this Court held that the most basic notions 
+of morality and justice under the concept of “public policy” will 
+include bias. 
+ 
+161. […] As a corollary, Section 34 places a responsibility on 
+the Arbitral Tribunals to ensure that the arbitral proceedings 
+are consistent with the fundamental policy of Indian law. 
+[Vidya Drolia v. Durga Trading Corpn., (2021) 2 SCC 1, pp. 
+69-70, para 70:“70. Arbitrators, like the courts, are equally 
+bound to resolve and decide disputes in accordance with the 
+public policy of the law. Possibility of failure to abide by public 
+policy consideration in a legislation, which otherwise does not 
+expressly or by necessary implication exclude arbitration, 
+cannot form the basis to overwrite and nullify the arbitration 
+agreement. This would be contrary to and defeat the legislative 
+intent reflected in the public policy objective behind the 
+Arbitration Act. Arbitration has considerable advantages as it 
+gives freedom to the parties to choose an arbitrator of their 
+choice, and it is informal,flexible and quick. Simplicity, 
+informality and expedition are hallmarks of arbitration. 
+Arbitrators are required to be impartial and independent, adhere 
+to natural justice, and follow a fair and just procedure. 
+Arbitrators are normally experts in the subject and perform 
+their tasks by referring to facts, evidence, and relevant case 
+law.”] 
+xxx 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 64 of 72 
+ 
+ 
+ 
+ 
+163. The possibility of bias is real in situations where an 
+arbitration clause allows a government company to unilaterally 
+appoint a sole arbitrator or control the majority of the 
+arbitrators. Since the Government has control over the Arbitral 
+Tribunal, it can chart the course of the arbitration proceedings 
+to the prejudice of the other party. Resultantly, unilateral 
+appointment clauses fail to provide an effective substitute for 
+judicial proceedings in India. Further, a unilateral appointment 
+clause is inherently exclusionary and violates the principle of 
+equal treatment of parties and procedural equality. 
+ 
+164. Unilateral appointment clauses in a public-private 
+contract fail to provide the minimum level of integrity required 
+in authorities performing quasi-judicial functions such as 
+Arbitral Tribunals. Therefore, a unilateral appointment clause 
+is against the principle of arbitration, that is, impartial 
+resolution of disputes between parties. It also violates the nemo 
+judex rule which constitutes the public policy of India in the 
+context of arbitration. Therefore, unilateral appointment clauses 
+in public-private contracts are violative of Article 14 of the 
+Constitution for being arbitrary in addition to being violative of 
+the equality principle under the Arbitration Act.” 
+ 
+(Emphasis supplied) 
+ 
+112. What emerges from the foregoing is that the appellants were well 
+within their right to challenge the ineligibility of the sole arbitrator in 
+an application under Section 34 of the Act, 1996. 
+c. Challenge to the ineligibility of the arbitrator at any stage of 
+the proceedings  
+113. A challenge to an arbitrator’s ineligibility could be raised at any stage 
+because an award passed in such circumstance is non-est, i.e., it carries 
+no enforceability or recognition in law. We say so because an arbitrator 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 65 of 72 
+ 
+ 
+ 
+ 
+does not possess the jurisdiction to pass an award. In arbitration, the 
+parties vest the jurisdiction in the tribunal by virtue of a valid 
+arbitration agreement and an appointment made in accordance with 
+the provisions of the Act, 1996. This jurisdiction is grounded in the 
+consent of the parties as explained in the foregoing paragraphs of this 
+judgment.  
+  
+114. In this context, jurisdiction means the authority of an arbitral tribunal 
+to render a decision affecting the merits of the case. An arbitrator who 
+lacks jurisdiction cannot make an award on the merits. With a view to 
+dispel any doubt and lend clarity, we deem it appropriate to observe 
+that the jurisdiction of the arbitral tribunal is distinct from the 
+admissibility of the dispute, i.e., the arbitrability of the claims.  
+ 
+115. A question pertaining to the jurisdiction of the arbitral tribunal arises 
+when the tribunal is fundamentally incompetent to render any 
+decision at all. In other words, a question of jurisdiction pertains to the 
+ability of the tribunal to hear a case, whereas questions of admissibility 
+presuppose that the tribunal has jurisdiction. An award passed by an 
+arbitrator who does not have jurisdiction strikes at the very authority 
+of the arbitrator.  
+ 
+116. This Court, in catena of decisions, has held that the validity of a decree 
+can be challenged even in execution proceedings if the court passing 
+such decree lacked subject-matter jurisdiction over the dispute. As a 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 66 of 72 
+ 
+ 
+ 
+ 
+decree passed by a court without jurisdiction goes to the root of the 
+matter. Any decision passed by a court lacking jurisdiction would be 
+coram non judice, since a court cannot give itself jurisdiction. No act of 
+the parties can cure an inherent lack of jurisdiction.  
+ 
+117. In Hira Lal Patni v. Kali Nath, reported in 1961 SCC OnLine SC 42, 
+this Court held that competence of a court to decide a case goes to the 
+root of the matter, and incompetency results in inherent lack of 
+jurisdiction. As a result, a decision rendered by a court that lacks 
+jurisdiction is a nullity. The relevant observations read thus:-  
+“4. […] The validity of a decree can be challenged in execution 
+proceedings only on the ground that the court which passed the 
+decree was lacking in inherent jurisdiction in the sense that it 
+could not have seisin of the case because the subject-matter was 
+wholly foreign to its jurisdiction or that the defendant was dead 
+at the time the suit had been instituted or decree passed, or some 
+such other ground which could have the effect of rendering the 
+court entirely lacking in jurisdiction in respect of the subject-
+matter of the suit or over the parties to it. But in the instant case 
+there was no such inherent lack of jurisdiction. The decision of 
+the Privy Council in the case of Ledgard v. Bull [13 Indian 
+Appeals 134] is an authority for the proposition that consent or 
+waiver can cure defect of jurisdiction but cannot cure inherent 
+lack of jurisdiction. In that case, the suit had been instituted in 
+the Court of the Subordinate Judge, who was incompetent to try 
+it. By consent of the parties, the case was transferred to the 
+Court of the District Judge for convenience of trial. It was laid 
+down by the Privy Council that as the court in which the suit 
+had been originally instituted was entirely lacking in 
+jurisdiction, in the sense that it was incompetent to try it, 
+whatever happened subsequently was null and void because 
+consent of parties could not operate to confer jurisdiction on a 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 67 of 72 
+ 
+ 
+ 
+ 
+court which was incompetent to try the suit. […] It is well 
+settled that the objection as to local jurisdiction of a court does 
+not stand on the same footing as an objection to the competence 
+of a court to try a case. Competence of a court to try a case goes 
+to the very root of the jurisdiction, and where it is lacking, it is 
+a case of inherent lack of jurisdiction. On the other hand, an 
+objection as to the local jurisdiction of a court can be waived and 
+this principle has been given a statutory recognition by 
+enactments like Section 21 of the Code of Civil Procedure.[…]” 
+ 
+(Emphasis supplied) 
+ 
+118. We may look into the decision of this Court in Hindustan Zinc Ltd. v. 
+Ajmer Vidyut Vitran Nigam Ltd., reported in (2019) 17 SCC 82. The 
+submission canvassed before this Court was that an objection to 
+jurisdiction could not have been raised in a proceeding under Section 
+37 of the Act, 1996, once the parties had consented to arbitration. In the 
+said decision it was held that an objection to the inherent lack of 
+jurisdiction can be taken at any stage and also in collateral 
+proceedings. Furthermore, that a decree passed without jurisdiction is 
+a nullity. The relevant observations read thus:-  
+“17. We are of the view that it is settled law that if there is an 
+inherent lack of jurisdiction, the plea can be taken up at any 
+stage and also in collateral proceedings. This was held by this 
+Court 
+in Kiran 
+Singh v. Chaman 
+Paswan [Kiran 
+Singh v. Chaman Paswan, (1955) 1 SCR 117 : AIR 1954 SC 
+340] as follows : (SCR p. 121 : AIR p. 342, para 6) 
+“6. … It is a fundamental principle well-established that a 
+decree passed by a court without jurisdiction is a nullity, 
+and that its invalidity could be set up whenever and 
+wherever it is sought to be enforced or relied upon, even at 
+the stage of execution and even in collateral proceedings. A 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 68 of 72 
+ 
+ 
+ 
+ 
+defect of jurisdiction, whether it is pecuniary or territorial, 
+or whether it is in respect of the subject-matter of the action, 
+strikes at the very authority of the Court to pass any decree, 
+and such a defect cannot be cured even by consent of parties. 
+If the question now under consideration fell to be determined 
+only on the application of general principles governing the 
+matter, there can be no doubt that the District Court of 
+Monghyr was coram non judice, and that its judgment and 
+decree would be nullities.” 
+ 
+18. Therefore, it is a little difficult to countenance Shri 
+Vaidyanathan's argument that having consented, the 
+respondent cannot now turn around and challenge the very 
+appointment of the arbitrator as being invalid and without 
+jurisdiction.” 
+(Emphasis supplied) 
+ 
+119. In Bhim Bahadur v. Vikram Singh, reported in 2015 SCC OnLine Utt 
+1563, when the issue before the High Court was whether the subject 
+land therein was agricultural or abadi in nature. The Court held that 
+the matter had to be referred to a revenue court under the Uttar 
+Pradesh Zamindari Abolition & Land Reforms Act. The relevant 
+observations read thus:-  
+“11. In this regard, the law is well established to the effect that 
+competency of the jurisdiction or the lack of the same in a 
+particular Court cannot be determined by either of the parties 
+through their pleadings, viz., the Court having jurisdiction 
+under the law to decide a particular issue cannot be kept away 
+from deciding the same on the basis of averments made by the 
+parties and, in the same manner, the jurisdiction cannot be 
+conferred on a particular Court on the basis of pleadings and 
+admission thereof to decide a particular issue wherefor the law 
+does not confer jurisdiction to the Court.” 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 69 of 72 
+ 
+ 
+ 
+ 
+ 
+(Emphasis supplied) 
+ 
+120. All that we are trying to convey is that, in civil law, the law itself 
+confers subject-matter jurisdiction on specific courts. For instance, a 
+suit seeking a declaration on the validity of marriage before the Civil 
+Court is not maintainable, as such disputes fall within the exclusive 
+jurisdiction of the Family Court. Similarly, in arbitration, the consent 
+of parties confers subject-matter jurisdiction, i.e., the authority to 
+decide the dispute. When an arbitral tribunal is unilaterally 
+constituted, such consent is absent, thereby divesting the tribunal of 
+subject-matter jurisdiction. The Act, 1996, does not recognize the 
+conferral of jurisdiction on an arbitral tribunal without the consent of 
+the parties. By entering into an express agreement in writing as per the 
+proviso to Section 12(5), the parties not only waive the ineligibility of 
+the proposed arbitrator but also consent to his appointment.  
+ 
+121. Before we part, we deem it fit to observe that an arbitrator is better 
+equipped with the position of law on appointments, more particularly, 
+unilateral appointments. Therefore, it becomes incumbent upon the 
+arbitrator that upon entering reference and at the very first hearing, to 
+ensure from the parties that they are willing to participate in the 
+proceedings and to insist upon a written agreement waiving the 
+requirement of Section 12(5) of the Act, 1996.  
+ 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 70 of 72 
+ 
+ 
+ 
+ 
+122. Further, in such circumstances referred to above, if any party does not 
+appear despite receipt of notice, the arbitrator shall not proceed further 
+and shall immediately withdraw from the arbitral proceedings. The 
+arbitrator must, along with the waiver agreement, record the minutes 
+even when the parties are cooperating. This would certainly save time 
+and avoid multiplicity of proceedings.  
+VIII. CONCLUSION 
+123. A conspectus of the aforesaid detailed discussion on the position of 
+law as regards Section 12 of the Act, 1996, is as follows:-  
+i. 
+The principle of equal treatment of parties provided in Section 
+18 of the Act, 1996, applies not only to the arbitral proceedings 
+but also to the procedure for appointment of arbitrators. Equal 
+treatment of the parties entails that the parties must have an 
+equal say in the constitution of the arbitral tribunal.   
+ 
+ii. 
+Sub-section (5) of Section 12 provides that any person whose 
+relationship with the parties or counsel, or the dispute, whether 
+direct or indirect, falls within any of the categories specified in 
+the Seventh Schedule would be ineligible to be appointed as an 
+arbitrator. Since, the ineligibility stems from the operation of 
+law, not only is a person having an interest in the dispute or its 
+outcome ineligible to act as an arbitrator, but appointment by 
+such a person would be ex facie invalid.  
+ 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 71 of 72 
+ 
+ 
+ 
+ 
+iii. The words “an express agreement in writing” in the proviso to 
+Section 12(5) means that the right to object to the appointment of 
+an ineligible arbitrator cannot be taken away by mere 
+implication. The agreement referred to in the proviso must be a 
+clear, unequivocal written agreement.  
+ 
+iv. When an arbitrator is found to be ineligible by virtue of Section 
+12(5) read with the Seventh Schedule, his mandate is 
+automatically terminated. In such circumstance, an aggrieved 
+party may approach the court under Section 14 read with Section 
+15 for appointment of a substitute arbitrator. Whereas, when an 
+award has been passed by such an arbitrator, an aggrieved party 
+may approach the court under Section 34 for setting aside the 
+award.  
+ 
+v. 
+In arbitration, the parties vest jurisdiction in the tribunal by 
+exercising their consent in furtherance of a valid arbitration 
+agreement. An arbitrator who lacks jurisdiction cannot make an 
+award on the merits. Hence, an objection to the inherent lack of 
+jurisdiction can be taken at any stage of the proceedings.  
+ 
+124. For all the foregoing reasons, we have reached the conclusion that the 
+High Court committed an egregious error in passing the impugned 
+judgment. We are left with no other option but to set aside the 
+
+ 
+ 
+ 
+ 
+ 
+SLP(C) Nos. 16107-16108 of 2025  
+ 
+Page 72 of 72 
+ 
+ 
+ 
+ 
+impugned judgment. As a result, the arbitral awards dated 30.07.2018 
+passed by the sole arbitrator are also set aside.  
+ 
+125. It would be open to the parties to initiate fresh arbitration proceedings 
+in accordance with law.  
+ 
+126. In the result, the appeals succeed and are hereby allowed. Pending 
+applications, if any, shall stand disposed of. 
+ 
+ 
+….....……………………….J.  
+(J. B. PARDIWALA) 
+ 
+ 
+…...………………………...J. 
+(K. V. VISWANATHAN) 
+ 
+ 
+New Delhi  
+5th January, 2026 

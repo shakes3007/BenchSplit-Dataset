@@ -1,0 +1,774 @@
+$~78
+* IN THE HIGH COURT OF DELHI AT NEW DELHI
+Date of decision: 22nd September 2025
++ FAO(OS) (COMM) 146/2025 & CM APPL. 60278/2025
+M/S LARSEN AND TOUBRO LTD .....Appellant
+Through: Mr. Manu Seshadri, Ms. Prachi
+Jain, Mr. Siddharth Shekhar, Mr.
+Sahil Mahganani, Mr. Sarthak
+Mongha, Advocates.
+versus
+RAIL VIKAS NIGAM LIMITED .....Respondent
+Through: Mr. Udit Seth, Mr. Divyanshu
+Singh, Advocates (through VC).
+CORAM:
+HON’BLE MR. JUSTICE NITIN WASUDEO SAMBRE
+HON’BLE MR. JUSTICE ANISH DAYAL
+JUDGMENT (ORAL)
+ANISH DAYAL, J.
+1. This appeal has been filed under Section 37 of the Arbitration &
+Conciliation Act, 1996 (‘A&C Act’), assailing the judgment dated 01st July
+2025 passed by the Single Judge in OMP (COMM) 278/2017, dismissing
+the petition under Section 34 of the A&C Act filed by the appellant
+(‘impugned judgment’).
+2. The proceedings arise out of an impugned award dated 31st March
+2017 passed by Arbitral Tribunal comprising of three Arbitrators (‘AT’)
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 1 of 24
+Signing Date:07.11.2025
+10:41:55
+in respect of the Contract Agreement dated 15th December 2011 for the
+work of “construction of viaduct including related works for 5.400 km
+length excluding station areas from Ch.20006.60 to Ch.26394.60 between
+CBD-1 to Rabindra Tirtha in New Garia Airport corridor of Kolkata
+Metro Railway Line Package-ANV-4" at an accepted cost of
+Rs.199,10,44,060/-.
+3. Letter of acceptance was issued to the appellant on 21st October
+2011. Completion period for work was 30 months. Stipulated date of start
+was 21st October 2011, and stipulated date of completion was 20th April
+2014. Actual date of completion was 30th June 2018.
+4. Appellant approached AT and filed six claims, out of which the AT
+allowed Claim Nos.2, 4 and 5 and rejected Claim Nos. 1, 3 and 6.
+5. The grievance of the appellant essentially relates to rejection of
+Claim No.1, which was for idling of resources, where appellant had
+claimed Rs. 6,52,70,847/-.
+6. Appellant contended that on account of delay on the part of
+respondent in providing drawings & permissions, change of alignment,
+arranging GTS mark and providing the requisite land within the specified
+time, appellant was entitled to compensation for delay, which led to idling
+of its resources. Appellant claimed that it had submitted various letters to
+the respondent with respect to delay & idling of resources from time to
+time.
+7. Respondent, however, resisted the claim relying upon Clause 2.2 &
+8.3 of General Conditions of Contract (‘GCC’). Respondent claimed that
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 2 of 24
+Signing Date:07.11.2025
+10:41:55
+the progress achieved by the appellant in the fronts, which were already
+available to them, was not up to the mark, and the question of idling of
+resources does not arise. He relied upon correspondence with the appellant
+in this regard.
+8. As regards the appellant’s contention that the land needed for
+erection of permanent structure pertains to HIDCO and was not provided
+within 30 days of issuance of LOA, as per Clause 8 of Special Conditions
+of Contract (‘SCC’), respondent contended that the delay in the diversion
+of public utility was due to poor coordination between appellant and
+HIDCO. Appellant was responsible for liaison with the utility-owning
+agency for diversions and getting the diversions scheme approved as per
+Clause 4.0 and 3.1.5 of Section 5, Chapter I. Appellant was also supposed
+to obtain the necessary approval from transport authorities and police
+department for temporary traffic diversion and control of public road.
+9. The AT took note of Clause 2.2 and Clause 8.3, which are extracted
+as under:
+Clause 2.2
+“The Employer shall grant the Contractor right of access
+to, and possession of, the Site progressively within the time
+(or times) stated in the Contract Data for the completion
+of Works. Such right and possession may not be exclusive
+to the contractor. The contractor will draw/modify the
+schedule for completion of Works according to progressive
+possession/right of such sites.
+If the contractor suffers delay from failure on the part of
+the Employer to grant right of access to, or possession of
+the Site, the Contractor shall give notice to the Engineer in
+a period of 28 day of such occurrence. After receipt of such
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 3 of 24
+Signing Date:07.11.2025
+10:41:55
+notice the Engineer shall proceed to determine any
+extension of time to which the Contractor is entitled and
+shall notify the Contractor accordingly. For any such
+delay in handling over of site, Contractors will be entitled
+to only reasonable extension of time and no monetary
+claims whatsoever shall be paid or entertained on this
+account.”
+Clause 8.3
+“In case of delay on the part of the Contractor, the
+Contractor shall be liable to pay liquidated damages and
+any other compensation for the damages suffered by the
+Employer as per Clause 8. 5. This is without prejudice to
+the right of the Employer to rescind the Contract.
+Failure or delay by the employer or the Engineer, to hand
+over to the contractor the Site necessary for execution of
+Works, or any part of the Works, or to give necessary
+notice to commence the Works, or to provide necessary
+Drawings or instructions or clarifications or to supply any
+material, plant or machinery, which under the Contract, is
+the responsibility of the Employer, shall in no way effect or
+vitiate the Contract or alter the character thereof, or
+entitled the contractor to damages or compensation
+thereof but in any such case, the Engineer shall extend the
+time period for the completion of the Contract, as in his
+opinion is/ are reasonable.”
+(emphasis added)
+10. Taking into account these provisions of GCC, the AT held that
+respondent was providing extension of completion period, considering
+delays not attributable to the claimant, including delay in making work site
+available for execution of work. The AT accepted the submission of
+respondent that, as per Clause 2.2 and Clause 8.3 of GCC, appellant at
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 4 of 24
+Signing Date:07.11.2025
+10:41:55
+best was entitled to extension of time period for completion of contract,
+and no monetary claims could be entertained.
+11. Submissions of the parties are noted in detail in paragraphs 7.1-7.19
+(appellant/claimant’s submission) and paragraphs 8.1-8.13 (respondent’s
+submissions) of the Award.
+12. Counsel for appellant submitted that AT had not given any reason
+and had mechanically applied Clause 2.2 and Clause 8.3 while the case of
+the appellant was that ‘the time was of the essence of the contract’.
+13. It is contended that AT had failed to consider that the parties had
+reciprocal obligations and whether Clause 8.3 could insulate the
+respondent from any claim for losses or damages for breach or failure to
+perform the obligations, particularly in light of provisions of Contract Act.
+14. It was, therefore, contended that Clause 8.3 was inconsistent, inter
+alia, with Sections 55 and 73 of the Indian Contract Act, 1872 (‘ICA’),
+and therefore, contrary to fundamental policy of Indian Law. For this, he
+relied upon Simplex Concrete Piles (India) Ltd. v. Union of India 2010
+SCC OnLine Del 821.
+15. Respondent submitted before the Single Judge that this argument
+was neither canvassed before the AT nor was the judgment of Simplex
+Concrete (supra) placed before it for consideration, and, therefore, this
+objection cannot be raised.
+16. Moreover, the decision in Simplex Concrete (supra) was
+challenged by Union of India under Section 37 of A&C Act in Union of
+India v. Simplex Concrete Piles (1) FAO (OS) No.348/2010 and leave had
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 5 of 24
+Signing Date:07.11.2025
+10:41:55
+been granted. The said judgment had also been distinguished by Division
+Bench in the judgment of PLUS91 Security Solutions v. NEC Corpn.
+India (P) Ltd. 2024 SCC OnLine Del 5114, where it was clarified that
+contractual bargains between the parties have to be given effect to.
+17. With respect to appellant’s arguments under Section 55 of ICA,
+respondent contended that the appellant had not intimated its intention to
+seek compensation; only the letter dated 25th February 2013 was issued by
+the appellant seeking extension of time. It further contended that clauses
+similarly worded to Clause 2.2 and Clause 8.3 of the GCC were upheld by
+the Supreme Court in K. Marappan v. TBPHLC (2020) 15 SCC 401.
+Reliance on PLUS91 Security (supra) and K. Marappan (supra) was
+contested by appellant before the Single Judge.
+18. After assessing these and other contentions made by the parties, the
+impugned judgment zeroed in on the basic issue of whether the decision
+of the AT disallowing the claim for idling of men, machinery and
+resources suffered from shortcomings, which would allow interference
+under Section 34 of the A&C Act.
+19. Impugned judgment, while analysing Clause 2.2 and Clause 8.3 of
+GCC, observed that, as per these provisions, delay in providing the work
+site to the contractor would trigger a notice by the contractor within 28
+days of such failure in delivery of site, leading to only extension of time,
+barring any corresponding monetary claim. Clause 8.3 of GCC, which
+relates to delay on the part of the employer or engineer in handing over the
+site or providing necessary drawings, etc., stipulated that such delay would
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 6 of 24
+Signing Date:07.11.2025
+10:41:55
+neither vitiate the contract nor entitle the contractor to claim damages
+or/and compensation, but only to an extension of time.
+20. The Single Judge in the impugned judgment noted that there was no
+challenge to the said provisions before the AT or any time prior to the
+signing of the contract or during its execution or thereafter, and, therefore,
+it was not open to assail the arbitral award under Section 34 by raising, for
+the first time, the issue of legality of these provisions. The Single Judge
+further noted that the appellant was conscious of the absence of its right to
+claim compensation, which is evident from letter dated 25th February 2013,
+where the petitioner, while seeking extension of time, attributes the delay
+to lack of requisite approvals and site availability, but does not seek any
+compensation.
+21. Extension of time was granted by letter dated 21st March 2013, and
+it was specifically provided that the extension was without any penalty.
+Compensation was sought only subsequently, on 22nd June 2013, but was
+denied by respondent on 09th July 2013.
+22. The impugned judgment, therefore, notes that the Court cannot be
+asked to reappreciate evidence, and the AT has the power and authority to
+interpret the provisions of a contract and give a decision on the basis of the
+factual matrix. On issues of interpretative differences, the Court was not
+inclined to interfere under provisions of Section 34 of A&C Act.
+23. Single Judge placed reliance on the decision of the Supreme Court
+in Union of India v. Susaka Pvt. Ltd. (2018) 2 SCC 182, noting that if a
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 7 of 24
+Signing Date:07.11.2025
+10:41:55
+plea was not raised before the AT, it amounts to a waiver and/or
+abandonment of a plea at the initial stage.
+24. Appellant had also referred to another dispute between the parties,
+which culminated in an award dated 30th December 2023, where AT had
+awarded idling claim on the basis of delay by the respondent in providing
+drawings.
+25. Appellant claimed that this award had been accepted and attained
+finality. In this respect, reliance on the different award between the parties
+was rejected by the Single Judge on the ground that each case has to be
+dealt with as per its own merits.
+26. Counsel for appellant, therefore, emphasized that the rejection of
+their submission that Clause 2.2 and Clause 8.3 were unconscionable and
+that Clause 17.1 of GCC itself provided additional payment under any
+clause or otherwise in connection with the contract. It was submitted that
+any exemption defeating the statutory right to compensation under Section
+73 of ICA was contrary to fundamental policy of Indian Law.
+27. Moreover, it was argued that the disentitlement to statutory benefits
+under Sections 54 & 55 of the ICA would be void as being against public
+policy and violative of Section 23 of the ICA. The interference was,
+therefore, invited under Section 34(2)(b)(ii) of the A&C Act on grounds
+of patent illegality, perversity, and conflict with the fundamental policy of
+Indian law.
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 8 of 24
+Signing Date:07.11.2025
+10:41:55
+Analysis
+28. This Court, after having assessed the submissions of counsel for
+appellant, and examining the impugned judgment as well as the impugned
+award, finds that the appeal under Section 37 of the A&C Act is unmerited
+for reasons which follow.
+29. Firstly, Scope of interference under Section 37 is quite limited, as
+evident from the provision of Section 34 itself, as well as the determination
+which has been made by the Supreme Court in Associate Builders v. Delhi
+Development Authority (2015) 3 SCC 49. The Supreme Court held that
+the interference under Section 34 is limited and extremely circumscribed
+and is permissible only when the award is tainted by patent illegality, i.e.
+illegality going to the root, and not mere erroneous application of law. In
+Ssangyong Engineering & Construction Co. Ltd. v. National Highways
+Authority of India (2019) 15 SCC 131, the Supreme Court narrowed the
+scope of "public policy" under Section 34, observing that it is confined to
+cases where the award is in conflict with the fundamental policy of Indian
+law, is patently illegal, or is in conflict with most basic notions of morality
+or justice. Moreover, in MMTC Ltd. v. Vedanta Ltd. (2019) 4 SCC 163,
+the Supreme Court reiterated that Section 34 is not a provision for appeal,
+and courts cannot reappreciate evidence or substitute their view for that of
+the arbitrator. Interference is permissible only on the limited grounds
+specified in the Act.
+29.1. In fact, under Section 37, the scope of interference is even further
+circumscribed as articulated by the Supreme Court in Somdatt Builders-
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 9 of 24
+Signing Date:07.11.2025
+10:41:55
+NCC-NEC (JV) v. NHAI (2025) 6 SCC 757 and Konkan Railway Corpn.
+Ltd. v. Chenab Bridge Project (2023) 9 SCC 85.
+29.2. In Somdatt Builders-NCC-NEC (JV) v. NHAI (2025) 6 SCC 757,
+the Supreme Court held that it cannot reopen the merits of a case while
+hearing a Section 37 appeal and further, cannot interpret contractual
+clauses. The relevant paragraphs are extracted as under:
+“45. In MMTC Ltd. Vs. Vedanta Ltd.[(2019) 4 SCC 163],
+this Court held that as far as Section 34 is concerned, the
+position is well settled that the court does not sit in appeal
+over an arbitral award and may interfere on merits only
+on the limited ground provided under Section 34(2)(b)(ii)
+i.e. if the award is against the public policy of India. Even
+then, the interference would not entail a review on the
+merits of the dispute but would be limited to situations
+where the findings of the arbitrator are arbitrary,
+capricious or perverse or when the conscience of the court
+is shocked or when the illegality is not trivial but goes to
+the root of the matter. An arbitral award may not be
+interfered with if the view taken by the arbitrator is a
+possible view based on facts. As far as interference with an
+order made under Section 34 by the court under Section 37
+is concerned, it has been held that such interference under
+Section 37 cannot travel beyond the restrictions laid down
+under Section 34. In other words, the court cannot
+undertake an independent assessment of the merits of the
+award and must only ascertain that the exercise of power
+by the court under Section 34 has not exceeded the scope
+of the provision.
+***
+48. In Reliance Infrastructure [(2024) 1 SCC 479], this
+Court referring to one of its earlier decisions in UHL
+Power Co. Ltd. v. State of H.P. [(2022) 4 SCC 116] held
+that scope of interference under Section 37 is all the more
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 10 of 24
+Signing Date:07.11.2025
+10:41:55
+circumscribed keeping in view the limited scope of
+interference with an arbitral award under Section 34 of the
+1996 Act. As it is, the jurisdiction conferred on courts
+under Section 34 of the 1996 Act is fairly narrow.
+Therefore, when it comes to scope of an appeal under
+Section 37 of the 1996 Act, jurisdiction of the appellate
+court in examining an order passed under Section 34,
+either setting aside or refusing to set aside an arbitral
+award, is all the more circumscribed”.
+(emphasis added)
+29.3. Similarly, in Konkan Railway Corpn. Ltd. v. Chenab Bridge
+Project (2023) 9 SCC 85, the Supreme Court reiterated that the scope of
+jurisdiction under Section 34 and Section 37 of the A&C Act is not akin
+to normal appellate jurisdiction, and interference with an arbitral award
+should not be done in a casual and cavalier manner. The relevant
+paragraph is extracted as under:
+“25. The principle of interpretation of contracts adopted
+by the Division Bench of the High Court that when two
+constructions are possible, then courts must prefer the one
+which gives effect and voice to all clauses, does not have
+absolute application. The said interpretation is subject to
+the jurisdiction which a court is called upon to exercise.
+While exercising jurisdiction under Section 37 of the Act,
+the Court is concerned about the jurisdiction that the
+Section 34 Court exercised while considering the
+challenge to the arbitral award. The jurisdiction under
+Section 34 of the Act is exercised only to see if the Arbitral
+Tribunal's view is perverse or manifestly arbitrary.
+Accordingly, the question of reinterpreting the contract on
+an alternative view does not arise. If this is the principle
+applicable to exercise of jurisdiction under Section 34 of
+the Act, a Division Bench exercising jurisdiction under
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 11 of 24
+Signing Date:07.11.2025
+10:41:55
+Section 37 of the Act cannot reverse an award, much less
+the decision of a Single Judge, on the ground that they have
+not given effect and voice to all clauses of the contract. …”
+(emphasis added)
+30. Secondly, it is settled law that interpretation of contractual clau ses
+lies within the arbitrator’s jurisdiction, and Courts cannot reappraise
+evidence or substitute their view.
+30.1. In McDermott International Inc. v. Burn Standard Co. Ltd.
+(2006) 11 SCC 181, it was held that interpreting the terms of a contract,
+even when it involves legal questions, is a matter for the arbitrator to
+decide. Relevant paragraphs of the judgment are extracted as under:
+“112. It is trite that the terms of the contract can be express
+or implied. The conduct of the parties would also be a
+relevant factor in the matter of construction of a contract.
+The construction of the contract agreement is within the
+jurisdiction of the arbitrators having regard to the wide
+nature, scope and ambit of the arbitration agreement and
+they cannot be said to have misdirected themselves in
+passing the award by taking into consideration the conduct
+of the parties. It is also trite that correspondences
+exchanged by the parties are required to be taken into
+consideration for the purpose of construction of a contract.
+Interpretation of a contract is a matter for the arbitrator
+to determine, even if it gives rise to determination of a
+question of law.
+113. Once, thus, it is held that the arbitrator had the
+jurisdiction, no further question shall be raised and the
+court will not exercise its jurisdiction unless it is found that
+there exists any bar on the face of the award.”
+(emphasis added)
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 12 of 24
+Signing Date:07.11.2025
+10:41:55
+31. Thirdly, appellant’s reliance on the decision in Simplex Concrete
+(supra) cannot be determinative of the issue. In Simplex Concrete (supra),
+the Single Judge of this Court dealt with the issue whether contractual
+clauses would disentitle a person from claiming damages which they were
+otherwise entitled to under law, and whether the Arbitrator could be
+prevented from awarding such damages or losses merely because the
+contract prohibited the same. The discussion involved two judgments of
+the Supreme Court dealing with the same clauses.
+31.1. In Ramnath International Construction (P) Ltd. v Union of India
+(2007) 2 SCC 453, the Supreme Court held that even if the Union of
+India/employer was at fault, the contractual bar to the entitlement of the
+contractor to damages would still operate.
+31.2. However, in Asian Techs Ltd. v. Union of India (2009) 10 SCC
+354, the Supreme Court held that such clauses merely prevent the
+department from granting damages but do not prevent the Arbitrator from
+awarding damages.
+31.3. Faced with these two conflicting judgments of the Supreme Court,
+the Single Judge in Simplex Concrete (supra) relied on precedents that
+guide High Courts to follow the judgment that more correctly lays down
+the law. The Single Judge opined that if Sections 73 and 55 of ICA are not
+allowed to prevail, then parties would in fact not even enter into contracts,
+which are essentially for the purpose of profit and benefits. This would
+enable deliberate breaches without consequence.
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 13 of 24
+Signing Date:07.11.2025
+10:41:55
+31.4. That being so, the Single Judge noted that this was clearly a matter
+of “public policy” and “public interest”, and that the sanctity of contracts
+must be preserved and any contractual clauses intended to defeat the
+contract’s own object would violate Section 23 of ICA, and therefore, be
+void.
+31.5. The Supreme Court’s interpretation in Ramnath International
+Construction (supra) was characterised as literal and strict interpretation
+of clauses. The Single Judge, therefore, struck down the award which had
+interpreted the clauses and upheld the same.
+31.6. The decision in Simplex Concrete (supra) was subsequently
+referred to by the Division Bench of this Court in PLUS91 Security
+Solutions (supra), while dealing with an intra-court appeal under Section
+37 of the A&C Act. One of the issues therein related to a clause which
+excluded liability for any indirect, special or consequential loss or damage
+due to loss of goodwill or loss of revenue or profit. The AT therein had
+relied on Simplex Concrete (supra) and held that the appellant/PLUS91
+Security Solutions would be entitled to damages notwithstanding the said
+clause. Respondent/NEC assailed the award, stating that the AT had
+misinterpreted the MoU and the award of loss or damages was contrary to
+the terms of the MoU. The Single Judge, while deciding petition under
+Section 34 of A&C Act, held that the clause had to be read in context of
+other clauses of the MoU, which was essentially for parties to collaborate
+with each other, and did not create binding commitments.
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 14 of 24
+Signing Date:07.11.2025
+10:41:55
+31.7. The Single Judge in PLUS91 Security Solutions (supra) held that
+AT had erred in applying the ratio of Simplex Concrete (supra), as it was
+rendered in a different context. While dealing with the issue, the Division
+Bench of this Court noted that it had reservations as to the decision in
+Simplex Concrete (supra) and stated that the said decision had no
+application in the present context since the observations made in Simplex
+Concrete (supra) were in context of specific clauses. In this regard, the
+Court noted as under:
+“65. This Court has some reservations as to the decision
+rendered by the learned Single Judge in Simplex Concrete
+Piles (India) Ltd. v. Union of India. However, it is not
+necessary to examine the same as it is not applicable to the
+facts in the present case. Reliance on the said decision is
+clearly misplaced. In that case, the Court was considering
+a clause, which precluded a contractor from claiming loss
+on account of delay in execution of the contract even
+though the delay in execution of the contract was for the
+reasons attributable to the employer. The learned Single
+Judge observed that there was a conflict of decision
+between the Supreme Court in regard to award of damages
+notwithstanding such a clause. The learned Single Judge
+noted that whereas, in the case of Ramnath International
+Construction (P) Ltd. v. Union of India, the Supreme Court
+had held that even if the employer (Union of India) is at
+fault, the award of damages is barred. However, in a latter
+decision in Asian Techs Limited v. Union of India, the
+Supreme Court had held in the context of a similar clause,
+that it only prevented the department from granting
+damages but did not prevent the arbitrator from awarding
+damages. After noting the said conflicting decision, the
+learned Single Judge held that the decision in the case of
+Asian Techs Limited v. Union of India furthered the object
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 15 of 24
+Signing Date:07.11.2025
+10:41:55
+of the Contract Act. However, the learned Single Judge
+also observed that “To permit a contractual clause having
+the object to defeat the very contract itself, is a matter of
+grave public interest. If such a clause is allowed to stand,
+then, the same will defeat the basis and existence of the
+Contract Act.” For the aforesaid reasoning the learned
+Single Judge held that the contractual clauses such as the
+Clauses in question in the said case [Clause 11(A) to
+11(C)] which disentitle a party to the benefits of Sections
+55 and 73 of the Contract Act would be violative of Section
+23 of the Contract Act.
+66. Clearly, the said decision has no application. The
+observations were made in the context of the said clauses.
+More importantly, the observations were based on the
+assumption that the contractual clauses would defeat the
+very contract itself. The said reasoning presupposes that
+a contractual clause is not a part of the contract between
+the parties. The said assumption is flawed.”
+(emphasis added)
+31.8. The Division Bench of this Court in PLUS91 Security Solutions
+(supra) further analysed the decisions in Ramnath International
+Construction (supra) and Asian Techs Ltd. (supra) in the following
+manner:
+“68. In Ramnath International Construction (P) Ltd. v.
+Union of India, the Supreme Court found that the said
+Clause 11(C) of the contract in question barred claims for
+compensation as a consequence of delays. A similar view
+was upheld by the Supreme Court in an earlier decision in
+Associated Engineering Co. v. Government of Andhra
+Pradesh and in Ch. Ramalinga Reddy v. Superintending
+Engineer, whereby claims of compensation on account of
+delays were rejected as being proscribed by the relevant
+clauses.
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 16 of 24
+Signing Date:07.11.2025
+10:41:55
+69. The decision in the case of Asian Techs Ltd. v. Union
+of India is not an authority for the proposition that a clause
+which barred claims for damages of a particular nature
+would be inoperative as opposed to public policy. As noted
+above, the Supreme Court had interpreted Clause 11(C) as
+not debarring a contractor from making a claim for
+compensation before an Arbitral Tribunal. However, the
+decision in the case of Ch. Ramalinga Reddy v.
+Superintending Engineer is a binding authority on a
+proposition that if a contractual clause bars certain claim
+of damages, the same would be binding on the parties.”
+(emphasis added)
+31.9. The Division Bench of this Court further relied on several
+decisions of the Supreme Court and the High Courts, where it was held
+that the integrity of the contract could not be interfered with, even if an
+absolute power has been granted in favour of another party in the contract.
+The decisions adverted to by the Division Bench were Oil & Natural Gas
+Corporation v Wig Brothers Builders & Engineers Pvt. Ltd. (2010) 13
+SCC 377, Her Highness Maharani Shantidevi P. Gaikwad vs. Savjibhai
+Haribhai Patel (2001) 5 SCC 101, Indian Oil Corporation Ltd. v.
+Amritsar Gas Services (1991) 1 SCC 533, Union of India v. Manraj
+Enterprises (2022) 2 SCC 331 and Bharathi Knitting Co. v. DHL
+Worldwide Express Courier Division of Airfreight Ltd. (1996) 4 SCC
+704.
+31.10. Upon assessment of these decisions, the Division Bench opined
+as under:
+“76. There is no ambiguity in the ratio of the aforesaid
+decisions. If the parties have agreed that a particular type
+of damages would not be paid, the said agreement is
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 17 of 24
+Signing Date:07.11.2025
+10:41:55
+required to be implemented. In terms of Section 28(3) of
+the A&C Act, the Arbitral Tribunal is required to render a
+decision having regard to the terms of the contract.”
+(emphasis added)
+31.11. In these circumstances, appellant’s reliance on Simplex Concrete
+(supra) simpliciter may not be tenable, considering that not only are there
+different views before the Supreme Court, but also the principle
+enunciated in Simplex Concrete (supra) has been diverted from in
+PLUS91 Security Solutions (supra).
+32. Fourthly, in K. Marappan (supra), issue concerned appeals arising
+out of arbitration conducted under the A&C Act. The High Court recorded
+that the arbitration awards were unsustainable in view of Clause 59 of the
+Agreement, which denied any claim for compensation on account of
+delays or hindrances to the work from any cause whatsoever. The Court
+upheld the principle of the clause and its applicability and stated as under:
+“25. It is our view that it will not be open to a contractor
+to claim compensation which arises on account of the fact
+that the work is delayed or hindrance caused to the work
+from any cause whatsoever. To demystify this further, it
+means that should the work be delayed on account of
+reasons which are attributable either partially or entirely
+to the employer, namely, the respondent herein, the claim
+for compensation is barred. Equally, the clause interdicts
+raising claim for compensation by the contractor if the
+employer poses hindrance to the work. If work gets delayed
+on account of the contractor himself, it is axiomatic that he
+cannot claim compensation as it would amount to a person
+taking advantage of his own wrong. Delay from any cause
+cannot found a claim for compensation. It may also happen
+that the work may get delayed not due to the fault of the
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 18 of 24
+Signing Date:07.11.2025
+10:41:55
+employer. There may be natural causes such as natural
+calamities which may cause delay in carrying out the work.
+Even in such cases, in our view, Clause 59 would cast an
+embargo against a claim by the contractor. This
+interpretation gives full play to the words “delays from any
+cause whatsoever”. Equally, if there is hindrance to the
+work from any cause whatever, a claim for compensation
+would not lie.”
+(emphasis added)
+32.1. While dealing with the specific claim of the contractor for
+compensation for collected materials lying on the site, and for enhanced
+compensation, the Court endorsed Clause 59, which barred compensation
+for delay regardless of the cause. The Court, in relation to the claim, held
+as under:
+“85. As regards this claim, the claim appears to be that the
+appellant collected materials and it was lying at the site.
+Admittedly, the appellant has not used this material for the
+purpose of doing the work. Only the case set up by the
+appellant is that he was given an assurance that he will be
+permitted to carry out the work and therefore, since he has
+spent money for the same, he must get the amount which is
+claimed for having spent on the material. We are of the
+view that insofar as the appellant has not used any of the
+materials to carry out the work and sets up the claim only
+on the basis of assurance which has not been admitted, the
+action of the appellant in purchasing the materials cannot
+result in establishing his claim for compensation. It is to
+be noticed that the appellant raised a claim for enhanced
+compensation. He alleged that there was delay on the part
+of the respondent on various grounds. This is apart from
+alleging other factors like breakout of malaria,
+unfavourable weather and delay in taking decision by the
+departmental officers, which contributed to escalation in
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 19 of 24
+Signing Date:07.11.2025
+10:41:55
+cost. Correspondence was exchanged with the Executive
+Engineer and the Superintending Engineer, the
+Superintending Engineer and the Chief Engineer and
+finally between the Chief Engineer and the Government. It
+appears that at that stage, the appellant invoked the
+arbitration clause and a panel of arbitrators gave their
+award. In fact, the work itself was stopped. Clause 59
+prevents the court from awarding compensation on
+account of any factor relating to the delay which may be
+due to any cause whatsoever. In such circumstances, we
+are of the view that the appellant has also not made out
+any cause for compensation in regard to this claim.”
+(emphasis added)
+32.2. References in these decisions have also been made to Section
+28(3) of the A&C Act, which states as under:
+“Section 28
+***
+(3) The Arbitral Tribunal shall decide in accordance with
+the terms of the contract and shall take into account the
+usages of the trade applicable to the transaction.”
+(emphasis added)
+33. Lastly, reliance of the respondent on Susaka Pvt. Ltd. (supra) is also
+merited as the Supreme Court has clearly held that if a plea is available,
+whether on facts or law, it must be raised by party at an appropriate stage,
+and if not, the party would be precluded from raising it at a later/belated
+stage. The Supreme Court opined as under:
+“27. If a plea is available, whether on facts or law, it has
+to be raised by the party at an appropriate stage in
+accordance with law. If not raised or/and given up with
+consent, the party would be precluded from raising such
+plea at a later stage of the proceedings on the principle of
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 20 of 24
+Signing Date:07.11.2025
+10:41:55
+waiver. If permitted to raise, it causes prejudice to other
+party. In our opinion, this principle applies to this case.
+***
+33. It is a well-settled principle in Arbitration Law that the
+award of an Arbitral Tribunal once passed is binding on
+the parties. The reason being that the parties having
+chosen their own arbitrator and given him an authority to
+decide the specific disputes arising between them must
+respect his decision as far as possible and should not make
+any attempt to find fault in each issue decided by him only
+because it is decided against one party. It is only when the
+issue decided is found to be bad in law in the light of any
+of the specified grounds set out in Section 34 of the Act, the
+Court may consider it appropriate to interfere in the award
+else not. The case at hand falls in the former category.”
+(emphasis added)
+33.1 It is quite clear from the pleadings before the Arbitral Tribunal, in
+particular the statement of claim, reply by respondent and rejoinder
+thereto, that no plea was taken that Clause 2.2 and 8.3 were
+unconscionable, against the grain of Section 55 and 73 of the ICA, or void
+on the basis of Section 23 of the ICA. Perusal of the pleadings before the
+AT bear out that this issue was never placed before the AT. This is also
+evident from the impugned award itself where this aspect does not come
+up for discussion. The AT simply went into the reasons for the delay and
+applied Clause 2.2 and Clause 8.3 to state that appellant would not be
+entitled to monetary claim, damages, or compensation. The Single Judge
+was, therefore, not amiss in recognising this and dismissing the petition
+under Section 34.
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 21 of 24
+Signing Date:07.11.2025
+10:41:55
+33.2. A perusal of the statement of defence filed by the respondent before
+the AT bears out that specific defence was taken to the claim filed by the
+appellant/claimant that there was no idling of resources as was being
+claimed. Moreover, it was contended that the entitlement was merely to
+extension of time period for completion of contract, and not as such to
+vitiate the contract, alter its character thereof, or entitle the
+appellant/claimant to damages or compensation. These defences, in
+particular, were taken in paragraphs nos.15-18 of the statement of defence.
+33.3. In rejoinder as filed by the appellant/claimant thereto, a simple
+denial has been made, and the appellant has not chosen to raise the issue
+of Clauses 2.2 and 8.3 being disharmonious with principles enshrined in
+Sections 55 and 73 of the ICA, or being void on the basis of Section 23
+thereof. It is quite clear that these aspects were not pleaded in any manner
+whatsoever before the AT, and, therefore, appellant cannot raise the issues
+at a belated stage before the Court under Section 34 or 37, contending that
+the AT ought to have considered the same.
+33.4. For ready reference, paragraph 11 of the rejoinder, which rejoins
+to paragraph nos.15-18 of the statement of defence, is extracted as under:
+“11. With reference to paragraphs 15, 16, 17 and 18 the
+respondent is merely repeating clause 8.3 of GCC in an
+attempt to escape its liability for its gross default. It is
+evident that the respondent is impliedly accepted its breach
+of obligation otherwise it would not have resorted to
+clause 8.3. It is denied and disputed that all material times
+the respondent had given sufficient drawings to execute the
+work and thus there was no idling of resources as alleged.
+It is not a question of furnishing the GFC drawings but it
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 22 of 24
+Signing Date:07.11.2025
+10:41:55
+was the obligation of the respondent to furnish such
+drawings in a systematic manner in order to the claimant
+to execute the work in a planned manner. Admittedly, the
+respondent had failed to make available the GFC drawings
+for certain stretches. It is an elementary principle of law
+that a party in default cannot escape its liability by
+resorting to an exemption clause. The defaulting party is
+bound to compensate the innocent party for any damages.”
+(emphasis added)
+33.5. Even otherwise, the Single Judge has relied upon the decision in
+Susaka Pvt. Ltd. (supra) to buttress the reasoning that new aspects cannot
+be taken up at the stage of Section 34 petitions, considering that they
+would be deemed to have been waived if not taken up before the AT.
+33.6. What is important is to appreciate that in all the correspondence
+prior to 22nd June 2013, when the appellant was complaining about delays
+on various accounts and blaming it on the employer/respondent, no
+specific claim for compensation was ever made. Only an extension of time
+was sought, as is evident from the communication dated 25th February
+2013 and communications prior to that, inter alia, 31st August 2012, 17th
+May 2012, 22nd June 2012, 9th August 2012, and 22nd November 2012.
+Failure of the appellant to notify the respondent of a claim for
+compensation can be considered as waiver and abandonment of the same.
+A conscious choice was made by the appellant, for reasons best known to
+them, not to raise a claim of compensation.
+34. The Arbitral Tribunal, being a creature of the contract, is, therefore,
+confined to the four corners of the contract and expected to uphold its
+sanctity, and not provide a supervening interpretation. In the spirit of this
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 23 of 24
+Signing Date:07.11.2025
+10:41:55
+provision, the rejection of the objections to the award vide impugned
+judgment is, therefore, fully merited. The AT has dismissed the claim for
+idling of resources, taking note of Clause 2.2 and Clause 8.3, and,
+therefore, has respected the express terms of the contract, which were
+binding and sacrosanct between the parties.
+35. The AT, after having considered the facts of the matter, particularly
+on the issue of reasons for the delay, appreciated the evidence in its own
+right, and did not consider it necessary to entertain the claim of
+compensation. The AT also noted that during the extended period,
+compensation for price variation has also been made to the claimant.
+36. For these reasons, the Court is not inclined to allow this appeal and,
+therefore, appeal stands dismissed along with the pending applications.
+37. Judgment be uploaded on the website of this Court.
+ANISH DAYAL
+(JUDGE)
+NITIN WASUDEO SAMBRE
+(JUDGE)
+SEPTEMBER 22, 2025/ak/bp
+Signature Not Verified
+Digitally Signed
+By:MANISH KUMAR FAO(OS) (COMM) 146/2025 Page 24 of 24
+Signing Date:07.11.2025
+10:41:55
